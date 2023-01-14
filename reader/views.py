@@ -303,6 +303,7 @@ def get_number_of_read_pages(node):
     #read_pages = ReadingLog.objects.values_list('page', flat=True).filter(user__id=user_id, group__id=group_id, section=section_id, action="page-load").distinct()
     #read_pages = list(read_pages)
     read_pages = []
+
     if section_id in read_pages_dict.keys():
         read_pages = read_pages_dict[section_id]
     return read_pages
