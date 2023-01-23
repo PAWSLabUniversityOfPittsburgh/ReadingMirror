@@ -227,9 +227,9 @@ function displayWikiContent(wiki_links,url_host,user_id,group_id){
         `).ready();
         
         $('.modal-footer').empty();
-
+        // <span id="wiki-feedback-prompt-text">Please, read this wikipedia article to rate it</span>
         $('.modal-footer').append(`
-            <span id="wiki-feedback-prompt-text">Please, read this wikipedia article to rate it</span>
+            <span id="wiki-feedback-prompt-text"></span>
             <table id="feedback-table">
                 <tr>
                     <td>Is this article Relevant?</td>
