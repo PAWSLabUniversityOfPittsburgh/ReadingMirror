@@ -2076,6 +2076,7 @@ function initToc(course_structure){
              "page": page_num,
              "action":"mouseover-"+mouseovered_id,
              "extra": {"progress": d3.select(".d3-tip").text()},
+             "visible_text":[],
              //"datetime": new Date().toISOString(),
              "datetime": stringDateFull}));
 
@@ -2576,6 +2577,7 @@ function initToc(course_structure){
              "page": page_num,
              "action":"mouseout-"+mouseovered_id,
              "extra": {"progress": d3.select(".d3-tip").text()},
+             "visible_text":[],
              "datetime": stringDateFull}));
     }
 
