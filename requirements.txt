@@ -1,5 +1,5 @@
 asgiref==3.4.1
-django==3.2.15
+django==3.2.17
 django-mysql==4.3.0
 djangorestframework==3.13.1
 mod-wsgi==4.9.3
