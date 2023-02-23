@@ -1298,7 +1298,7 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
         fetchSmartContent("{{ request.META.HTTP_HOST }}"+extra_base_url, user_id, group_id,displaySmartContent);
      }
      var valid_wiki_group_ids = ["INFSCI2300Fall2022", "INFSCI2140Fall2022", "INFSCI2300Spring2023"];
-    var valid_video_group_ids = ["IRSpring2018","IRFall2018","IRFall2019","INFSCI2140Fall2021","INFSCI0017Fall17"];
+    var valid_video_group_ids = ["IRSpring2018","IRFall2018","IRFall2019","INFSCI2140Fall2021","INFSCI0017Fall17","cis0310"];
 
      if (valid_wiki_group_ids.includes(group_id)){
         console.debug("inside HIP wiki");
@@ -3216,15 +3216,28 @@ function updateRecommendations(){
         recommended_videos = [];
 
         //var old_section_id = last_page_read["resourceid"]+"-"+last_page_read["id"];
+
+        
+        var section_id = last_page_read["id"];
+        // var section_name = last_page_read["name"];
+        // var resource_file_id = last_page_read["resourceid"];
+        var resource_page = last_page_read["page"];
         var old_section_id = last_page_read["docno"];
 
         var new_section_id = map_old_new_section_ids[old_section_id];
 
-        new_section_id = "section-"+new_section_id.replace(/_/g, "-");
+        new_section_id = (group_id != 'cis0310')? "section-"+new_section_id.replace(/_/g, "-") : section_id;
+        current_section_id = (group_id != 'cis0310')? current_section_id : section_id;
+        curr_page = (group_id != 'cis0310')? new_section_id : resource_page;
+
+        if (group_id == 'cis0310' && resource_page != 1){
+            if ($('#reader-div').has('#right')) $('#right').remove();
+            return; /// only show on first pages for this course.
+        }
 
         $.ajax({
         //url: 'http://halley.exp.sis.pitt.edu/behnam/book/api.php?sid='+new_section_id,
-        url: "http://{{ request.META.HTTP_HOST }}"+extra_base_url+'/api/recommender/recommended_videos?method='+recommendation_approach+'&page='+new_section_id+'&user='+user_id+'&group='+group_id+'&section='+current_section_id,
+        url: "http://{{ request.META.HTTP_HOST }}"+extra_base_url+'/api/recommender/recommended_videos?method='+recommendation_approach+'&page='+curr_page+'&user='+user_id+'&group='+group_id+'&section='+current_section_id,
         type: 'GET',
         crossDomain: true,
         success: function(data) {
@@ -3289,6 +3302,28 @@ function updateRecommendations(){
                 }
 
                 $('#recommended-videos-list').html("");
+                if(group_id == 'cis0310'){
+                    recommmended_videos = [{
+                        'url':"https://youtu.be/rzFX5NWojp0",
+                        "title":'The Normal Distribution Clearly Explained!!',
+                        "id":1,
+                        "rating":3,
+                        "explanation_rating":3,
+                        "value":1,
+                        "rank":1,
+                        "noise":0.0
+                    },
+                    {
+                        'url':"https://www.youtube.com/watch?v=n7K8s4vryCQ",
+                        "title":'Understanding Exponential vs Poisson Distribution',
+                        "id":1,
+                        "rating":3,
+                        "explanation_rating":3,
+                        "value":1,
+                        "rank":1,
+                        "noise":0.0
+                    }];
+                }
 
                 for(var i=0; i<recommended_videos.length;i++){
                     //console.log(recommended_videos[i]);
