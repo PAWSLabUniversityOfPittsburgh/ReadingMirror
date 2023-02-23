@@ -3302,9 +3302,10 @@ function updateRecommendations(){
                 }
 
                 $('#recommended-videos-list').html("");
-                if(group_id == 'cis0310'){
-                    recommmended_videos = [{
-                        'url':"https://youtu.be/rzFX5NWojp0",
+                if(group_id == 'cis0310' && section_id == 'cis_Week4_09-horgan'){
+                    console.log("updating recommended video list");
+                    recommended_videos = [{
+                        "url":"https://youtu.be/rzFX5NWojp0",
                         "title":'The Normal Distribution Clearly Explained!!',
                         "id":1,
                         "rating":3,
@@ -3314,17 +3315,37 @@ function updateRecommendations(){
                         "noise":0.0
                     },
                     {
-                        'url':"https://www.youtube.com/watch?v=n7K8s4vryCQ",
+                        "url":"https://www.youtube.com/watch?v=n7K8s4vryCQ",
                         "title":'Understanding Exponential vs Poisson Distribution',
                         "id":1,
-                        "rating":3,
+                        "rating":2,
+                        "explanation_rating":4,
+                        "value":1,
+                        "rank":1,
+                        "noise":0.0
+                    },
+                    {
+                        "url":"https://www.youtube.com/watch?v=KbQaPd2io_k",
+                        "title":'Geometric Distribution Memoryless Property',
+                        "id":1,
+                        "rating":5,
+                        "explanation_rating":3,
+                        "value":1,
+                        "rank":1,
+                        "noise":0.0
+                    },
+                    {
+                        "url":"https://youtu.be/oI3hZJqXJuc",
+                        "title":'Main Idea of Probability Distributions',
+                        "id":1,
+                        "rating":2,
                         "explanation_rating":3,
                         "value":1,
                         "rank":1,
                         "noise":0.0
                     }];
                 }
-
+                console.log(recommended_videos);
                 for(var i=0; i<recommended_videos.length;i++){
                     //console.log(recommended_videos[i]);
                     var youtube_video_url = recommended_videos[i].url
