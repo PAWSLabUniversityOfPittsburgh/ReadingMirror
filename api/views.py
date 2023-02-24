@@ -432,7 +432,11 @@ def recommended_videos(request):
 
         #Generates position for introducing noise into
         user_noise_position = int(user_id)%10
-        page_noise_position=int(page_id[len(page_id)-1:len(page_id)])%10
+        page_noise_position=0.0
+        try:
+            int(page_id[len(page_id)-1:len(page_id)])%10
+        except Exception:
+            pass
         first_noise_position=(user_noise_position+page_noise_position)%10
         second_noise_position=first_noise_position*2
 
