@@ -1553,7 +1553,7 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
 
         })
 
-        if(valid_video_group_ids.includes(group_id)){ //group_id!="CoTaPP22" && group_id!="PFETest"){
+        if(valid_video_group_ids.includes(group_id) || valid_video_group_ids.includes(group_id.toLowerCase())){ //group_id!="CoTaPP22" && group_id!="PFETest"){
             updateRecommendations();
         }
         /*$("#page-container").scrollEnd(function(){
@@ -3224,20 +3224,18 @@ function updateRecommendations(){
         var resource_page = last_page_read["page"];
         var old_section_id = last_page_read["docno"];
 
-        var new_section_id = map_old_new_section_ids[old_section_id];
+        var new_section_id = (group_id.toLowerCase() != 'cis0310')?  map_old_new_section_ids[old_section_id]: section_id;
 
-        new_section_id = (group_id != 'cis0310')? "section-"+new_section_id.replace(/_/g, "-") : section_id;
-        current_section_id = (group_id != 'cis0310')? current_section_id : section_id;
-        curr_page = (group_id != 'cis0310')? new_section_id : resource_page;
+        new_section_id = (group_id.toLowerCase() != 'cis0310')? "section-"+new_section_id.replace(/_/g, "-") : new_section_id;
 
-        if (group_id == 'cis0310' && resource_page != 1){
+        if (group_id.toLowerCase() == 'cis0310' && resource_page != 1){
             if ($('#reader-div').has('#right')) $('#right').remove();
             return; /// only show on first pages for this course.
         }
 
         $.ajax({
         //url: 'http://halley.exp.sis.pitt.edu/behnam/book/api.php?sid='+new_section_id,
-        url: "http://{{ request.META.HTTP_HOST }}"+extra_base_url+'/api/recommender/recommended_videos?method='+recommendation_approach+'&page='+curr_page+'&user='+user_id+'&group='+group_id+'&section='+current_section_id,
+        url: "http://{{ request.META.HTTP_HOST }}"+extra_base_url+'/api/recommender/recommended_videos?method='+recommendation_approach+'&page='+new_section_id+'&user='+user_id+'&group='+group_id+'&section='+current_section_id,
         type: 'GET',
         crossDomain: true,
         success: function(data) {
@@ -3302,50 +3300,7 @@ function updateRecommendations(){
                 }
 
                 $('#recommended-videos-list').html("");
-                if(group_id == 'cis0310' && section_id == 'cis_Week4_09-horgan'){
-                    console.log("updating recommended video list");
-                    recommended_videos = [{
-                        "url":"https://youtu.be/rzFX5NWojp0",
-                        "title":'The Normal Distribution Clearly Explained!!',
-                        "id":1,
-                        "rating":3,
-                        "explanation_rating":3,
-                        "value":1,
-                        "rank":1,
-                        "noise":0.0
-                    },
-                    {
-                        "url":"https://www.youtube.com/watch?v=n7K8s4vryCQ",
-                        "title":'Understanding Exponential vs Poisson Distribution',
-                        "id":1,
-                        "rating":2,
-                        "explanation_rating":4,
-                        "value":1,
-                        "rank":1,
-                        "noise":0.0
-                    },
-                    {
-                        "url":"https://www.youtube.com/watch?v=KbQaPd2io_k",
-                        "title":'Geometric Distribution Memoryless Property',
-                        "id":1,
-                        "rating":5,
-                        "explanation_rating":3,
-                        "value":1,
-                        "rank":1,
-                        "noise":0.0
-                    },
-                    {
-                        "url":"https://youtu.be/oI3hZJqXJuc",
-                        "title":'Main Idea of Probability Distributions',
-                        "id":1,
-                        "rating":2,
-                        "explanation_rating":3,
-                        "value":1,
-                        "rank":1,
-                        "noise":0.0
-                    }];
-                }
-                console.log(recommended_videos);
+                
                 for(var i=0; i<recommended_videos.length;i++){
                     //console.log(recommended_videos[i]);
                     var youtube_video_url = recommended_videos[i].url
