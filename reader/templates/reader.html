@@ -1298,7 +1298,7 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
         fetchSmartContent("{{ request.META.HTTP_HOST }}"+extra_base_url, user_id, group_id,displaySmartContent);
      }
      var valid_wiki_group_ids = ["INFSCI2300Fall2022", "INFSCI2140Fall2022", "INFSCI2300Spring2023"];
-    var valid_video_group_ids = ["IRSpring2018","IRFall2018","IRFall2019","INFSCI2140Fall2021","INFSCI0017Fall17","cis0310"];
+    var valid_video_group_ids = ["IRSpring2018","IRFall2018","IRFall2019","INFSCI2140Fall2021","INFSCI0017Fall17","cis0310","CIS0310"];
 
      if (valid_wiki_group_ids.includes(group_id)){
         console.debug("inside HIP wiki");
