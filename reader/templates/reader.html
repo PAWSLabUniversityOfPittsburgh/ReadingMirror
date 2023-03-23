@@ -1293,7 +1293,9 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
             console.log("Section to update is empty");
      }
 
-     if (group_id == "PFETest"){ // || group_id == "INFSCI2300Fall2022"){
+    var valid_smart_content_ids = ["PFETest","cis0310","CIS0310"];
+
+     if (valid_smart_content_ids.includes(group_id)){ // || group_id == "INFSCI2300Fall2022"){
         console.debug("inside PFETest");// or INFSCI2300Fall2022 ");
         fetchSmartContent("{{ request.META.HTTP_HOST }}"+extra_base_url, user_id, group_id,displaySmartContent);
      }
