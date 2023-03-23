@@ -77,7 +77,7 @@ function displaySmartContent(url_host,content_provider_types,user_id,group_id){
         "animatedexamples": "Animations",
         "pcex": "Annotated Examples",
         "pcrs": "Coding Problems",
-        "R_Text": "GPT",
+        "R_Text": "GPT-based Explanation",
     }
 
 
