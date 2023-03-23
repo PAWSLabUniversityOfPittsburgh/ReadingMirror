@@ -76,7 +76,8 @@ function displaySmartContent(url_host,content_provider_types,user_id,group_id){
         "parsons":"Parsons",
         "animatedexamples": "Animations",
         "pcex": "Annotated Examples",
-        "pcrs": "Coding Problems"
+        "pcrs": "Coding Problems",
+        "R_Text": "R Theory",
     }
 
 
