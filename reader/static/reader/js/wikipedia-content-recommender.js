@@ -175,7 +175,7 @@ function displayWikiContent(wiki_links,url_host,user_id,group_id){
         $('#right-wiki-links').tabSlideOut({
         tabLocation: 'right',
         offsetReverse: true, // position the panel from the bottom of the page, rather than the top
-        offset: '100px',
+        offset: '200px',
         otherOffset: '40px', // force panel to be fixed height (required to get the scrollbars to appear in the sub-panel)
         handleOffsetReverse: true, // position the tab from the bottom of the panel, rather than the top
         onLoadSlideOut: false, // open by default
@@ -393,7 +393,7 @@ function displayRatedWikiContent(rated_wiki_links,url_host, user_id, group_id){
 
         $('#rated-wiki-links').tabSlideOut({
         tabLocation: 'right',
-        offset: '420px',         // offset from bottom
+        offset: '435px',         // offset from bottom
         offsetReverse: true, // position the panel from the bottom of the page, rather than the top
         otherOffset: '40px', // force panel to be fixed height (required to get the scrollbars to appear in the sub-panel)
         handleOffsetReverse: true, // position the tab from the bottom of the panel, rather than the top
