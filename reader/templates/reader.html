@@ -3230,7 +3230,7 @@ function updateRecommendations(){
 
         new_section_id = (group_id.toLowerCase() != 'cis0310')? "section-"+new_section_id.replace(/_/g, "-") : new_section_id;
 
-        if (group_id.toLowerCase() == 'cis0310' && resource_page != 1){
+        if (group_id.toLowerCase().includes('cis0310') && resource_page != 1){
             if ($('#reader-div').has('#right')) $('#right').remove();
             return; /// only show on first pages for this course.
         }
