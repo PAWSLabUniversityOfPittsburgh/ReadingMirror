@@ -3226,9 +3226,9 @@ function updateRecommendations(){
         var resource_page = last_page_read["page"];
         var old_section_id = last_page_read["docno"];
 
-        var new_section_id = (group_id.toLowerCase() != 'cis0310')?  map_old_new_section_ids[old_section_id]: section_id;
+        var new_section_id = (group_id.toLowerCase().includes('cis0310'))? section_id : map_old_new_section_ids[old_section_id];
 
-        new_section_id = (group_id.toLowerCase() != 'cis0310')? "section-"+new_section_id.replace(/_/g, "-") : new_section_id;
+        new_section_id = (group_id.toLowerCase().includes('cis0310'))? new_section_id : "section-"+new_section_id.replace(/_/g, "-");
 
         if (group_id.toLowerCase().includes('cis0310') && resource_page != 1){
             if ($('#reader-div').has('#right')) $('#right').remove();
