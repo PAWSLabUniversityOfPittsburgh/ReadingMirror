@@ -5,4 +5,6 @@ __pycache__
 **/data/
 **/concepts/**
 readerenv/
-
+readingmirrorenv
+python3.9
+.DS_Store
