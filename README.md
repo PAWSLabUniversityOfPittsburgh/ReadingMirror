@@ -45,6 +45,13 @@ mysql> \q
 python3 import_users_from_file_django.py
 ```
 
+### EDIT
+
+For MACOS, you'll get an error when installing requirements -- No Apache installation can be found, do you have the full Apple Xcode installed.
+
+A workaround is discussed [here](https://github.com/GrahamDumpleton/mod_wsgi/issues/357)
+
+
 #### Citing the project
 
 ```
