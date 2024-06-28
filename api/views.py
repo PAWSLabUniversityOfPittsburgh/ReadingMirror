@@ -29,7 +29,8 @@ import json
 import csv
 
 from api import serializers
-
+from django.db.models import Count
+import pandas as pd
 
 ############################### Annotator API views ###############################
 
@@ -512,32 +513,58 @@ def slc_programming(request):
         provider_id = request.POST["provider_id"]
         privacy = request.POST["privacy"]
 
-        slc_content_sections = slc_models.SmartContentSection.objects.filter(section_id=section_id,is_active=1)
-        
-        content_provider_list = slc_models.SmartContent.objects.order_by('content_type').values('content_type','provider_id').distinct()
+        # c = get_concepts_upto()
+
+        # smart_concepts_sections.loc[:,'final_concepts'] = smart_concepts_sections.apply(c.filter_concepts, axis=1)
+
+        main_sec_id = int(section_id.split('-')[1])
+        sub_sec_id = int(section_id.split('-')[2])
+        prev_sections = [f'pfe-{x}-{y}' for x in range(1,main_sec_id+1) for y in range(1, sub_sec_id+1)]
+
+        prev_curr_section_concepts = pd.DataFrame.from_dict(slc_models.SmartContentSection.objects.values().filter(section_id__in=prev_sections,is_active=1))['concept'].to_list()
         
         return_json = {}
 
-        if False: return_json["content_providers"] = content_provider_list
+        # return_json["content_providers"] = content_provider_list
 
-        for row3 in slc_content_sections:
-            slc_content_component = slc_models.SmartContentConcept.objects.filter(component_name = row3.concept.rstrip())
-            
-            for row2 in slc_content_component:
-                slc_content = slc_models.SmartContent.objects.filter(content_name = row2.content_name)
-                for row1 in slc_content:
+        slc_concepts = slc_models.SmartContentConcept.objects.values().filter(active=1)
 
-                    if not(row1.provider_id in return_json):
-                        return_json[row1.provider_id] = []
+        # slc_content_component = slc_content_component.groupby('content_name').agg({'component_name':lambda x: list(x)})
+        added_urls = []
 
-                    return_json[row1.provider_id].append({
-                                                        "content_name": row1.content_name,
-                                                        "display_name": row1.display_name,
-                                                        "content_type": row1.content_type,
-                                                        "component_name": row2.component_name,
-                                                        "context_name":  row2.context_name,
-                                                        "activity_url": row1.url
-                                                    })
+        ## adding test cases
+
+
+        for prev_curr_section_concept in prev_curr_section_concepts:
+            # breakpoint()
+            text_concepts = [x.lower() for x in prev_curr_section_concept.split('_') if len(x) > 0]
+            for row1 in slc_concepts:
+                example_concepts = set([x.lower() for x in row1['context_name'].split('_') if len(x) > 0])
+                match_count = 0
+                for concept in example_concepts:
+                    if concept in text_concepts: match_count += 1
+                
+                
+                # breakpoint()
+                
+                if match_count == len(example_concepts):
+                    print(text_concepts, example_concepts)
+                    query_result = slc_models.SmartContent.objects.values().filter(content_name=row1['content_name'])
+                    # breakpoint()
+                    if len(query_result) == 1:
+                        row2 = query_result[0]
+                        if not(row2['provider_id'] in return_json): return_json[row2['provider_id']] = []
+                        if not(row2['url'] in added_urls):
+                            added_urls.append(row2['url'])
+                            return_json[row2['provider_id']].append({
+                                                            "content_name": row2['content_name'],
+                                                            "display_name": row2['display_name'],
+                                                            "content_type": row2['content_type'],
+                                                            "component_name": row1['component_name'],
+                                                            "context_name":  row1['context_name'],
+                                                            "activity_url": row2['url']
+                                                        })
+        # breakpoint()
         return JSONResponse(return_json,status=200)
     else:
         return HttpResponseForbidden()

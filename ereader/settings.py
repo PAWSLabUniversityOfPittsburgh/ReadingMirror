@@ -93,7 +93,8 @@ DATABASES = {
         'USER': 'developer',
         'PASSWORD': 'upittpaws',
         'HOST': '127.0.0.1',
-        'PORT': '3306'
+        'PORT': '3336',
+        'OPTIONS':{'ssl_mode':'DISABLED'}
     }
 }
 
