@@ -1,1 +1,2122 @@
-[{"content_name":"q_py_arithmetic1","content_type":"Tracing Problems","display_name":"simple arithmetic","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_arithmetic1&act=q_py_topic_variables&sub=q_py_arithmetic1","page_numbers":36,"section_id":"Section 2.8"},{"content_name":"q_py_arithmetic2","content_type":"Tracing Problems","display_name":"arithmetic","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_arithmetic2&act=q_py_topic_variables&sub=q_py_arithmetic2","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"q_py_swap1","content_type":"Tracing Problems","display_name":"swap","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_swap1&act=q_py_topic_variables&sub=q_py_swap1","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"q_py_if_elif1","content_type":"Tracing Problems","display_name":"if-elif","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_if_elif1&act=q_py_topic_if_statement&sub=q_py_if_elif1","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"q_py_nested_if_elif1","content_type":"Tracing Problems","display_name":"nested if-elif","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1","page_numbers":46,"section_id":"Section 3.5"},{"content_name":"q_py_comparison_logic1","content_type":"Tracing Problems","display_name":"comparison","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_comparison_logic1&act=q_py_topic_logical_operators&sub=q_py_comparison_logic1","page_numbers":43,"section_id":"Section 3.1"},{"content_name":"q_py_account_logic1","content_type":"Tracing Problems","display_name":"account management","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_account_logic1&act=q_py_topic_logical_operators&sub=q_py_account_logic1","page_numbers":50,"section_id":"Section 3.8"},{"content_name":"q_py_for_loop1","content_type":"Tracing Problems","display_name":"for loop","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_for_loop1&act=q_py_topic_loops&sub=q_py_for_loop1","page_numbers":76,"section_id":"Section 5.8"},{"content_name":"q_py_while_loop1","content_type":"Tracing Problems","display_name":"while loop","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_while_loop1&act=q_py_topic_loops&sub=q_py_while_loop1","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"q_py_nested_while1","content_type":"Tracing Problems","display_name":"nested while","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_nested_while1&act=q_py_topic_loops&sub=q_py_nested_while1","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"q_py_output1","content_type":"Tracing Problems","display_name":"simple format","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_output1&act=q_py_topic_output_formatting&sub=q_py_output1","page_numbers":57,"section_id":"Section 4.4"},{"content_name":"q_py_output2","content_type":"Tracing Problems","display_name":"format with one argument","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_output2&act=q_py_topic_output_formatting&sub=q_py_output2","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_output3","content_type":"Tracing Problems","display_name":"format with two arguments","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_output3&act=q_py_topic_output_formatting&sub=q_py_output3","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_output4","content_type":"Tracing Problems","display_name":"format with three arguments","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_output4&act=q_py_topic_output_formatting&sub=q_py_output4","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_fun_car1","content_type":"Tracing Problems","display_name":"one simple function","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_fun_car2","content_type":"Tracing Problems","display_name":"two simple functions","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_list_access1","content_type":"Tracing Problems","display_name":"modify a list","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_list_access1&act=q_py_topic_lists&sub=q_py_list_access1","page_numbers":114,"section_id":"Section 8.14"},{"content_name":"q_py_list_access2","content_type":"Tracing Problems","display_name":"modify a list in a loop","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_list_access2&act=q_py_topic_lists&sub=q_py_list_access2","page_numbers":76,"section_id":"Section 5.8"},{"content_name":"q_py_list_append1","content_type":"Tracing Problems","display_name":"append to a list","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"q_py_add_two_lists1","content_type":"Tracing Problems","display_name":"combine two lists","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"q_py_list_remove1","content_type":"Tracing Problems","display_name":"remove from a list","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_list_remove1&act=q_py_topic_lists&sub=q_py_list_remove1","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"q_py_concat_strings1","content_type":"Tracing Problems","display_name":"concatenate strings","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_concat_strings1&act=q_py_topic_strings&sub=q_py_concat_strings1","page_numbers":87,"section_id":"Section 6.12"},{"content_name":"q_py_substring1","content_type":"Tracing Problems","display_name":"substring","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_substring1&act=q_py_topic_strings&sub=q_py_substring1","page_numbers":81,"section_id":"Section 6.4"},{"content_name":"q_py_dict_access1","content_type":"Tracing Problems","display_name":"access a dictionary","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_dict_access1&act=q_py_topic_dictionary&sub=q_py_dict_access1","page_numbers":126,"section_id":"Section 9.5"},{"content_name":"q_py_dict_access2","content_type":"Tracing Problems","display_name":"access and mofify a dictionary","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2","page_numbers":126,"section_id":"Section 9.5"},{"content_name":"q_py_obj_car1","content_type":"Tracing Problems","display_name":"one car object","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1","page_numbers":194,"section_id":"Section 14.11"},{"content_name":"q_py_obj_car2","content_type":"Tracing Problems","display_name":"two car objects","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2","page_numbers":194,"section_id":"Section 14.11"},{"content_name":"q_py_int_ref1","content_type":"Tracing Problems","display_name":"int reference","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_int_ref1&act=q_py_topic_references&sub=q_py_int_ref1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_list_int_ref1","content_type":"Tracing Problems","display_name":"list reference (int)","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_list_int_ref1&act=q_py_topic_references&sub=q_py_list_int_ref1","page_numbers":59,"section_id":"Section 4.6"},{"content_name":"q_py_str_ref1","content_type":"Tracing Problems","display_name":"string reference","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_str_ref1&act=q_py_topic_references&sub=q_py_str_ref1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_list_str_ref1","content_type":"Tracing Problems","display_name":"list reference (string)","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_value_except1","content_type":"Tracing Problems","display_name":"value error","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_list_except1","content_type":"Tracing Problems","display_name":"index error","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1","page_numbers":88,"section_id":"Section 6.12"},{"content_name":"q_py_rw_file1","content_type":"Tracing Problems","display_name":"read and write file (string)","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_rw_file1&act=q_py_topic_file&sub=q_py_rw_file1","page_numbers":59,"section_id":"Section 4.6"},{"content_name":"q_py_rw_file2","content_type":"Tracing Problems","display_name":"read and write file","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_rw_file2&act=q_py_topic_file&sub=q_py_rw_file2","page_numbers":81,"section_id":"Section 6.4"},{"content_name":"q_py_exchange1","content_type":"Tracing Problems","display_name":"exchange variables","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_exchange1&act=q_py_topic_variables&sub=q_py_exchange1","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"q_py_exchange2","content_type":"Tracing Problems","display_name":"exchange variables 2","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_exchange2&act=q_py_topic_variables&sub=q_py_exchange2","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"q_py_nested_if1","content_type":"Tracing Problems","display_name":"nested if","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_interest_if_else1","content_type":"Tracing Problems","display_name":"if-else (interest)","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_interest_if_else1&sub=q_py_interest_if_else1&act=q_py_topic_if_statement","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"q_py_interest_if_elif1","content_type":"Tracing Problems","display_name":"if-elif? (interest)","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_interest_if_elif1&sub=q_py_interest_if_elif1&act=q_py_topic_if_statement","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"q_py_nested_if_elif2","content_type":"Tracing Problems","display_name":"nested if-elif","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_nested_if_elif2&sub=q_py_nested_if_elif2&act=q_py_topic_if_statement","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"q_py_while_loop2","content_type":"Tracing Problems","display_name":"while loop with summation","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_while_loop2&sub=q_py_while_loop2&act=q_py_topic_loops","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"q_py_obj_account1","content_type":"Tracing Problems","display_name":"account objects","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects","page_numbers":194,"section_id":"Section 14.11"},{"content_name":"q_py_obj_point1","content_type":"Tracing Problems","display_name":"point object","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects","page_numbers":194,"section_id":"Section 14.11"},{"content_name":"q_py_obj_bus1","content_type":"Tracing Problems","display_name":"bus objects","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects","page_numbers":194,"section_id":"Section 14.11"},{"content_name":"q_py_obj_student1","content_type":"Tracing Problems","display_name":"student objects","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects","page_numbers":194,"section_id":"Section 14.11"},{"content_name":"q_py_inheritance_animal1","content_type":"Tracing Problems","display_name":"animal inheritance","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects","page_numbers":194,"section_id":"Section 14.11"},{"content_name":"q_py_demoquestion","content_type":"Tracing Problems","display_name":"q_py_demoquestion","url":"http:\/\/pawscomp2.sis.pitt.edu\/quizjet\/displayQuiz.jsp?rdfID=q_py_demoquestion","page_numbers":31,"section_id":"Section 2.1"},{"content_name":"q_py_demoquestion1","content_type":"Tracing Problems","display_name":"q_py_demoquestion1","url":"http:\/\/pawscomp2.sis.pitt.edu\/quizjet\/displayQuiz.jsp?rdfID=q_py_demoquestion1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_demoquestion2","content_type":"Tracing Problems","display_name":"q_py_demoquestion2","url":"http:\/\/pawscomp2.sis.pitt.edu\/quizjet\/displayQuiz.jsp?rdfID=q_py_demoquestion2","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_demoquestion2_v1","content_type":"Tracing Problems","display_name":"q_py_demoquestion2_v1","url":"http:\/\/pawscomp2.sis.pitt.edu\/quizjet\/displayQuiz.jsp?rdfID=q_py_demoquestion2_v1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_demoquestion2_v2","content_type":"Tracing Problems","display_name":"q_py_demoquestion2_v2","url":"http:\/\/pawscomp2.sis.pitt.edu\/quizjet\/displayQuiz.jsp?rdfID=q_py_demoquestion2_v2","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_demoquestion2_v3","content_type":"Tracing Problems","display_name":"q_py_demoquestion2_v3","url":"http:\/\/pawscomp2.sis.pitt.edu\/quizjet\/displayQuiz.jsp?rdfID=q_py_demoquestion2_v3","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_if_elif1_v1","content_type":"Tracing Problems","display_name":"q_py_if_elif1_v1","url":"http:\/\/pawscomp2.sis.pitt.edu\/quizjet\/displayQuiz.jsp?rdfID=q_py_if_elif1_v1","page_numbers":46,"section_id":"Section 3.5"},{"content_name":"q_py_file1","content_type":"Tracing Problems","display_name":"File Processing 1","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_file1&act=q_py_topic_file_processing&sub=q_py_file1","page_numbers":101,"section_id":"Section 7.10"},{"content_name":"q_py_q_py_string_formatting","content_type":"Tracing Problems","display_name":"String Formatting","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting&sub=q_py_q_py_string_formatting&act=q_py_topic_strings","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_q_py_string_formatting2","content_type":"Tracing Problems","display_name":"String Formatting 2","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting2&sub=q_py_q_py_string_formatting2&act=q_py_topic_strings","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_q_py_datatype1","content_type":"Tracing Problems","display_name":"Data Type 1","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_q_py_datatype1&sub=q_py_q_py_datatype1&act=q_py__type_data_types","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"q_py_q_py_string_formatting1","content_type":"Tracing Problems","display_name":"String Formatting 1","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting1&sub=q_py_q_py_string_formatting1&act=q_py_topic_strings","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_data_types2","content_type":"Tracing Problems","display_name":"Data Types 2","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_data_types2&sub=q_py_data_types2&act=q_py__type_data_types","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"q_py_data_types_functions","content_type":"Tracing Problems","display_name":"Data Types Functions","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_data_types_functions&sub=q_py_data_types_functions&act=q_py__type_data_types","page_numbers":59,"section_id":"Section 4.6"},{"content_name":"q_py_data_types_module","content_type":"Tracing Problems","display_name":"Data Types Module","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_data_types_module&sub=q_py_data_types_module&act=q_py__type_data_types","page_numbers":57,"section_id":"Section 4.4"},{"content_name":"q_py_reference_list1","content_type":"Tracing Problems","display_name":"Reference List 1","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_reference_list1&sub=q_py_reference_list1&act=q_py_values_and_references","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_reference_reverse","content_type":"Tracing Problems","display_name":"Reference Reverse","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_reference_reverse&sub=q_py_reference_reverse&act=q_py_values_and_references","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_aliasing1","content_type":"Tracing Problems","display_name":"Aliasing 1","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_aliasing1&sub=q_py_aliasing1&act=q_py_Aliasing","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"q_py_aliasing2","content_type":"Tracing Problems","display_name":"Aliasing 2","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_aliasing2&sub=q_py_aliasing2&act=q_py_Aliasing","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"q_py_aliasing3","content_type":"Tracing Problems","display_name":"Aliasing 3","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_aliasing3&sub=q_py_aliasing3&act=q_py_Aliasing","page_numbers":32,"section_id":"Section 2.2"},{"content_name":"q_py_q_py_string_formatting_v1","content_type":"Tracing Problems","display_name":"String Formatting V1","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting_v1&sub=q_py_q_py_string_formatting_v1&act=q_py_topic_strings","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_exceptions_addarr","content_type":"Tracing Problems","display_name":"Exceptions addarr","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_exceptions_addarr&sub=q_py_exceptions_addarr&act=q_py_topic_exceptions","page_numbers":48,"section_id":"Section 3.7"},{"content_name":"q_py_exception_asE","content_type":"Tracing Problems","display_name":"Exceptions asE","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_exception_asE&sub=q_py_exception_asE&act=q_py_topic_exceptions","page_numbers":48,"section_id":"Section 3.7"},{"content_name":"q_py_exception_assertion","content_type":"Tracing Problems","display_name":"Exceptions Assertion","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_exception_assertion&sub=q_py_exception_assertion&act=q_py_topic_exceptions","page_numbers":48,"section_id":"Section 3.7"},{"content_name":"q_py_fstring_format_1","content_type":"Tracing Problems","display_name":"f-string formatting 1","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_fstring_format_1&sub=q_py_fstring_format_1&act=q_py_topic_output_formatting","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_fstring_format_2","content_type":"Tracing Problems","display_name":"f-string formatting 2","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_fstring_format_2&sub=q_py_fstring_format_2&act=q_py_topic_output_formatting","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_fstring_format_3","content_type":"Tracing Problems","display_name":"f-string formatting 3","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_fstring_format_3&sub=q_py_fstring_format_3&act=q_py_topic_output_formatting","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_fstring_format_4","content_type":"Tracing Problems","display_name":"f-string formatting 4","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_fstring_format_4&sub=q_py_fstring_format_4&act=q_py_topic_output_formatting","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_nested_for_while","content_type":"Tracing Problems","display_name":"Nested For and While Loop","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_nested_for_while&sub=q_py_nested_for_while&act=q_py_topic_loops","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"q_py_nested_for_loop","content_type":"Tracing Problems","display_name":"Nested for loop","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_nested_for_loop&sub=q_py_nested_for_loop&act=q_py_topic_loops","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"q_py_bubble_sort_1","content_type":"Tracing Problems","display_name":"Bubble sort 1","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_bubble_sort_1&sub=q_py_bubble_sort_1&act=q_py_sorting","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_bubble_sort_2","content_type":"Tracing Problems","display_name":"Bubble sort 2","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_bubble_sort_2&sub=q_py_bubble_sort_2&act=q_py_sorting","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"q_py_max_index_search","content_type":"Tracing Problems","display_name":"Max index search","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_max_index_search&sub=q_py_max_index_search&act=q_py_search","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"q_py_tuple","content_type":"Tracing Problems","display_name":"Tuple","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_tuple&sub=q_py_tuple&act=q_py_values_and_references","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"q_py_function_pass","content_type":"Tracing Problems","display_name":"Functions pass","url":"http:\/\/adapt2.sis.pitt.edu\/quizpet\/displayQuiz.jsp?rdfID=q_py_function_pass&sub=q_py_function_pass&act=q_py_topic_functions","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_bmi_calculator2","content_type":"Challenges","display_name":"BMI Calculator","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_bmi_calculator&ch=py_bmi_calculator2","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_fahrenheit_to_celsius","content_type":"Challenges","display_name":"Unit Converter","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_f_to_c_conversion&ch=py_fahrenheit_to_celsius","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_fail_course2","content_type":"Challenges","display_name":"Pass-Fail Rule (Case 2)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_fail_course&ch=py_fail_course2","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_ifelseif_grade2","content_type":"Challenges","display_name":"The Grade Letter","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_if_else_grade&ch=py_ifelseif_grade2","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_ifelse_odd_even","content_type":"Challenges","display_name":"The Sign of a Number","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_if_else_num&ch=py_ifelse_odd_even","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_if_else_wage2","content_type":"Challenges","display_name":"The Wage of an Employee","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_if_else_wage&ch=py_if_else_wage2","page_numbers":46,"section_id":"Section 3.5"},{"content_name":"py_phone_age2","content_type":"Challenges","display_name":"Buying a New Phone","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_phone_age&ch=py_phone_age2","page_numbers":46,"section_id":"Section 3.5"},{"content_name":"py_pythagorean_theorem2","content_type":"Challenges","display_name":"Pythagorean Theorem","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_pythagorean_theorem&ch=py_pythagorean_theorem2","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_rent_car2","content_type":"Challenges","display_name":"Renting a Car (Case 2)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_rent_car&ch=py_rent_car2","page_numbers":46,"section_id":"Section 3.5"},{"content_name":"py_rent_car3","content_type":"Challenges","display_name":"Renting a Car (Case 3)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_rent_car&ch=py_rent_car3","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_display_time2","content_type":"Challenges","display_name":"Time Converter","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_time_conversion&ch=py_display_time2","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_vending_machine2","content_type":"Challenges","display_name":"Vending Machine","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_vending_machine&ch=py_vending_machine2","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_adjacent_consecutive","content_type":"Challenges","display_name":"Comparing Adjacent Numbers in a Sequence","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_check_adjacent&ch=py_adjacent_consecutive","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"py_adjacent_greater","content_type":"Challenges","display_name":"Comparing Adjacent Numbers in a Sequence","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_check_adjacent&ch=py_adjacent_greater","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"py_reverse_number","content_type":"Challenges","display_name":"Processing the Digits of an Integer (Cas","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_digits&ch=py_reverse_number","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"py_boolean_dry_hot2","content_type":"Challenges","display_name":"Hot-Dry Weather (Case 2)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_hot_dry&ch=py_boolean_dry_hot2","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_boolean_dry_hot3","content_type":"Challenges","display_name":"Hot-Dry Weather (Case 3)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_hot_dry&ch=py_boolean_dry_hot3","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_boolean_dry_hot4","content_type":"Challenges","display_name":"Hot-Dry Weather (Case 4)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_hot_dry&ch=py_boolean_dry_hot4","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_input2","content_type":"Challenges","display_name":"Receiving Input Integers Until a Certain","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_input&ch=py_input2","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"py_input3","content_type":"Challenges","display_name":"Receiving Input Integers Until a Certain","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_input&ch=py_input3","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"py_input4","content_type":"Challenges","display_name":"Receiving Input Integers Until a Certain","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_input&ch=py_input4","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_nested_if_max_of_three","content_type":"Challenges","display_name":"The Min\/Max of Three Integers","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_nested_if_min_max&ch=py_nested_if_max_of_three","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_nested_if_temperature2","content_type":"Challenges","display_name":"Warning about the Changes in the Weather","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_nested_if_temperature&ch=py_nested_if_temperature2","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_range1_2","content_type":"Challenges","display_name":"Printing Consecutive Numbers Starting fr","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_range_one&ch=py_range1_2","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_range3_2","content_type":"Challenges","display_name":"Printing Sequence of Numbers with a Gap ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_range_three&ch=py_range3_2","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_range2_2","content_type":"Challenges","display_name":"Printing Consecutive Numbers Within a Sp","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_range_two&ch=py_range2_2","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_write_squares_odd","content_type":"Challenges","display_name":"Printing the Squares of Numbers Within a","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_squares&ch=py_write_squares_odd","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_write_squares_range","content_type":"Challenges","display_name":"Printing the Squares of Numbers Within a","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_squares&ch=py_write_squares_range","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_three_boolean2","content_type":"Challenges","display_name":"Three Booleans (Case 2)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_three_booleans&ch=py_three_boolean2","page_numbers":45,"section_id":"Section 3.4"},{"content_name":"py_three_boolean3","content_type":"Challenges","display_name":"Three Booleans (Case 3)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_three_booleans&ch=py_three_boolean3","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_win_percentage_input","content_type":"Challenges","display_name":"Calculating the Winning Percentage of a ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_win_percentage&ch=py_win_percentage_input","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_win_percentage_won_equal","content_type":"Challenges","display_name":"Calculating the Winning Percentage of a ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_win_percentage&ch=py_win_percentage_won_equal","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_repeated_sequence2","content_type":"Challenges","display_name":"Printing A Sequence of Repeated Numbers","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_repeated_sequence&ch=py_repeated_sequence2","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_stars_2","content_type":"Challenges","display_name":"Printing A Right Triangle Star Pattern","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_star_patterns&ch=py_stars_2","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_list_basic2","content_type":"Challenges","display_name":"Updating an Element in a List (Case 2)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_basic&ch=py_list_basic2","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_list_basic3","content_type":"Challenges","display_name":"Updating an Element in a List (Case 3)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_basic&ch=py_list_basic3","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_list_swap_adjacent_elements","content_type":"Challenges","display_name":"Modifying a List","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_change&ch=py_list_swap_adjacent_elements","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_list_fill_user_input","content_type":"Challenges","display_name":"Adding Values to an Empty List","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_fill&ch=py_list_fill_user_input","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_list_min","content_type":"Challenges","display_name":"Finding the Min\/Max Value in a List","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_min_max&ch=py_list_min","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_list_rotate_left_twice","content_type":"Challenges","display_name":"Rotating the List Values (Case 2)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_rotate&ch=py_list_rotate_left_twice","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_list_rotate_right","content_type":"Challenges","display_name":"Rotating the List Values (Case 3)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_rotate&ch=py_list_rotate_right","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_list_rotate_right_twice","content_type":"Challenges","display_name":"Rotating the List Values (Case 4)","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_rotate&ch=py_list_rotate_right_twice","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_temperature_list_days_above_threshold","content_type":"Challenges","display_name":"Processing a List of Temperature Values","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_temperature&ch=py_temperature_list_days_above_threshold","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_concat_char_two_str2","content_type":"Challenges","display_name":"Concatenating Characters of Two Strings","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_concat_char_two_str&ch=py_concat_char_two_str2","page_numbers":81,"section_id":"Section 6.4"},{"content_name":"py_concat_str_num2","content_type":"Challenges","display_name":"Concatenating Strings and Numbers (Case ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_concat_str_num&ch=py_concat_str_num2","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"py_concat_string_num3","content_type":"Challenges","display_name":"Concatenating Strings and Numbers (Case ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_concat_str_num&ch=py_concat_string_num3","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"py_str_count2","content_type":"Challenges","display_name":"Counting the Occurrences of One String i","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_str_count&ch=py_str_count2","page_numbers":82,"section_id":" Section 6.6"},{"content_name":"py_str_repeat2","content_type":"Challenges","display_name":"Repeating Characters of a String","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_str_repeat_chars&ch=py_str_repeat2","page_numbers":82,"section_id":" Section 6.6"},{"content_name":"py_check_age2","content_type":"Challenges","display_name":"Determining Whether One is a Teenager","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_check_age&ch=py_check_age2","page_numbers":64,"section_id":" Section 4.12"},{"content_name":"py_check_product_code2","content_type":"Challenges","display_name":"Counting the Number of Valid and Banned ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_check_product_code&ch=py_check_product_code2","page_numbers":48,"section_id":" Section 3.7"},{"content_name":"py_work_hours2","content_type":"Challenges","display_name":"Reporting the Total Hours Each Employee ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_work_hours&ch=py_work_hours2","page_numbers":73,"section_id":" Section 5.6"},{"content_name":"py_print_medals_row_column_total","content_type":"Challenges","display_name":"Printing Table of Medal Counts with Row\/","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_print_medals&ch=py_print_medals_row_column_total","page_numbers":73,"section_id":" Section 5.6"},{"content_name":"py_soda_survey_soda_avg","content_type":"Challenges","display_name":"Processing the Results of a Soda Survey ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_soda_survey&ch=py_soda_survey_soda_avg","page_numbers":73,"section_id":" Section 5.6"},{"content_name":"py_soda_survey_soda_respondent_avg","content_type":"Challenges","display_name":"Processing the Results of a Soda Survey ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_soda_survey&ch=py_soda_survey_soda_respondent_avg","page_numbers":73,"section_id":" Section 5.6"},{"content_name":"py_sum_digits","content_type":"Challenges","display_name":"Processing the Digits of an Integer (Cas","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_digits&ch=py_sum_digits","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"ps_hello","content_type":"Construction Problems","display_name":"Hello","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_hello","page_numbers":31,"section_id":"Section 2.1"},{"content_name":"ps_simple_function","content_type":"Construction Problems","display_name":"Simple Function","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_simple_function","page_numbers":59,"section_id":"Section 4.6"},{"content_name":"ps_simple_params","content_type":"Construction Problems","display_name":"Simple Params","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_simple_params","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_return_bigger_or_none","content_type":"Construction Problems","display_name":"Return Bigger or None","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_return_bigger_or_none","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_addition","content_type":"Construction Problems","display_name":"Addition","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_addition","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"ps_python_iteration_addition","content_type":"Construction Problems","display_name":"Iteration with Addition","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_iteration_addition","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"ps_python_iteration_multiplication","content_type":"Construction Problems","display_name":"Iteration with Multiplication","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_iteration_multiplication","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"ps_python_calculate_function","content_type":"Construction Problems","display_name":"Calculate Function","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_calculate_function","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_nested_calls","content_type":"Construction Problems","display_name":"Nested Calls","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_nested_calls","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_recursive_factorial","content_type":"Construction Problems","display_name":"Recursive Factorial","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_recursive_factorial","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_modulo_is_even","content_type":"Construction Problems","display_name":"Modulo is Even","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_modulo_is_even","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_list_iteration_zoo","content_type":"Construction Problems","display_name":"List Iteration Zoo","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_iteration_zoo","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_nested_lists_indexing","content_type":"Construction Problems","display_name":"Nested List Indexing","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_nested_lists_indexing","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_string_indexing","content_type":"Construction Problems","display_name":"String Indexing","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_string_indexing","page_numbers":81,"section_id":"Section 6.4"},{"content_name":"ps_python_list_to_dict","content_type":"Construction Problems","display_name":"List to Dictionary","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_to_dict","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"ps_python_bigger_than","content_type":"Construction Problems","display_name":"Bigger Than","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_bigger_than","page_numbers":43,"section_id":"Section 3.1"},{"content_name":"ps_python_conditionals_temperature","content_type":"Construction Problems","display_name":"Conditionals Temperature","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_conditionals_temperature","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"ps_python_swap","content_type":"Construction Problems","display_name":"Swap","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_swap","page_numbers":32,"section_id":"Section 2.2"},{"content_name":"ps_python_nested_ifs","content_type":"Construction Problems","display_name":"Nested ifs","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_nested_ifs","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"ps_python_comparisons","content_type":"Construction Problems","display_name":"Comparisons","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_comparisons","page_numbers":43,"section_id":"Section 3.1"},{"content_name":"ps_python_try_except","content_type":"Construction Problems","display_name":"Try Except","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_try_except","page_numbers":48,"section_id":" Section 3.7"},{"content_name":"ps_python_printing_file_contents","content_type":"Construction Problems","display_name":"Printing file contents","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_printing_file_contents","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"ps_python_for_odd_or_even","content_type":"Construction Problems","display_name":"Odd or Even","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_for_odd_or_even","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"ps_python_xor","content_type":"Construction Problems","display_name":"XOR","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_xor","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"ps_python_string_join","content_type":"Construction Problems","display_name":"String join","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_string_join","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_try_adding","content_type":"Construction Problems","display_name":"Try adding","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_try_adding","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_nested_loops","content_type":"Construction Problems","display_name":"Nested Loops","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_nested_loops","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"ps_python_2d_list","content_type":"Construction Problems","display_name":"Two-dimensional List","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_2d_list","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_3digit_combinations","content_type":"Construction Problems","display_name":"Construct a program that creates unique ","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_3digit_combinations","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_3digit_combinations2","content_type":"Construction Problems","display_name":"Construct a program that creates unique ","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_3digit_combinations2","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_divsible_by1","content_type":"Construction Problems","display_name":"Construct a program with multiple if-eli","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_divsible_by1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_divisible_by2","content_type":"Construction Problems","display_name":"Construct a program with multiple if-eli","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_divisible_by2","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"ps_python_divisible_by3","content_type":"Construction Problems","display_name":"Construct a program with multiple if-eli","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_divisible_by3","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_freq_of_char1","content_type":"Construction Problems","display_name":"Letter frequency","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_freq_of_char1","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_freq_of_char2","content_type":"Construction Problems","display_name":"Letter frequency","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_freq_of_char2","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_palindrome1","content_type":"Construction Problems","display_name":"Creating a function that checks if the s","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_palindrome1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_palindrome2","content_type":"Construction Problems","display_name":"Creating a function that checks if the s","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_palindrome2","page_numbers":57,"section_id":"Section 4.4"},{"content_name":"ps_python_palindrome3","content_type":"Construction Problems","display_name":"Creating a function that checks if the s","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_palindrome3","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_palindrome4","content_type":"Construction Problems","display_name":"Construct a function which determines wh","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_palindrome4","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_list_of_remainders1","content_type":"Construction Problems","display_name":"Construct a function that returns a list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_of_remainders1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_list_of_remainders2","content_type":"Construction Problems","display_name":"Construct a function that returns a list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_of_remainders2","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_list_reverse1","content_type":"Construction Problems","display_name":"Reverse the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_reverse1","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_list_reverse2","content_type":"Construction Problems","display_name":"Reverse the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_reverse2","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_list_reverse3","content_type":"Construction Problems","display_name":"Reverse the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_reverse3","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_list_reverse4","content_type":"Construction Problems","display_name":"Reverse the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_reverse4","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_list_reverse5","content_type":"Construction Problems","display_name":"Reverse the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_reverse5","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_list_reverse6","content_type":"Construction Problems","display_name":"Reverse the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_reverse6","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_list_reverse7","content_type":"Construction Problems","display_name":"Reverse the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_reverse7","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_list_reverse8","content_type":"Construction Problems","display_name":"Reverse the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_list_reverse8","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_sum_of_two1","content_type":"Construction Problems","display_name":"Checks whether the sum of two integers a","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_sum_of_two1","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_sum_of_two2","content_type":"Construction Problems","display_name":"Checks whether the sum of two integers a","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_sum_of_two2","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"ps_python_find_and_square1","content_type":"Construction Problems","display_name":"Updating  elements to the new list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_find_and_square1","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_find_and_square2","content_type":"Construction Problems","display_name":"Updating required elements to the new li","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_find_and_square2","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_find_and_square3","content_type":"Construction Problems","display_name":"Updating the elements to the new list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_find_and_square3","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_find_and_square4","content_type":"Construction Problems","display_name":"Updating the elements to the new list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_find_and_square4","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_find_and_square5","content_type":"Construction Problems","display_name":"Updating required elements to the new li","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_find_and_square5","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_find_and_square6","content_type":"Construction Problems","display_name":"Updating required elements to the new li","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_find_and_square6","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_easy_power1","content_type":"Construction Problems","display_name":"Power calculation","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_easy_power1","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"ps_python_easy_power2","content_type":"Construction Problems","display_name":"Power calculation","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_easy_power2","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"ps_python_fast_power1","content_type":"Construction Problems","display_name":"Calculating power ","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_fast_power1","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"ps_python_fast_power2","content_type":"Construction Problems","display_name":"Calculating power ","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_fast_power2","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"ps_python_power_with_loops1","content_type":"Construction Problems","display_name":"Calculating power ","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_power_with_loops1","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_power_with_loops2","content_type":"Construction Problems","display_name":"Calculating power ","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_power_with_loops2","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_remove_dublicates","content_type":"Construction Problems","display_name":"Remove dublicates from the list ","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_remove_dublicates","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_remove_dublicates2","content_type":"Construction Problems","display_name":"Remove dublicates from the list ","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_remove_dublicates2","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_even_first1","content_type":"Construction Problems","display_name":"Reorganize the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_even_first1","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_even_first2","content_type":"Construction Problems","display_name":"Reorganize the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_even_first2","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_even_first3","content_type":"Construction Problems","display_name":"Reorganize the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_even_first3","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_even_first4","content_type":"Construction Problems","display_name":"Reorganize the list","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_even_first4","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"ps_python_math_library","content_type":"Construction Problems","display_name":"Practicing using math library and check ","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_math_library","page_numbers":57,"section_id":"Section 4.4"},{"content_name":"ps_python_data_type","content_type":"Construction Problems","display_name":"Practicing manipulating variables and ch","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_data_type","page_numbers":86,"section_id":"Section 6.11"},{"content_name":"ps_python_nested_whiles","content_type":"Construction Problems","display_name":"Practicing nested while loops","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_nested_whiles","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_nested_loop_2","content_type":"Construction Problems","display_name":"Practicing using nested while and for lo","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_nested_loop_2","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"ps_python_add_to_list_2","content_type":"Construction Problems","display_name":"List values and references.","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_add_to_list_2","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_search_min_index","content_type":"Construction Problems","display_name":"Practicing searching the index of the mi","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_search_min_index","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"ps_python_search_min_max_index","content_type":"Construction Problems","display_name":"Practicing searching the index of the mi","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_search_min_max_index","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"ps_python_stack","content_type":"Construction Problems","display_name":"Construct a program that creates a Stack","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_stack","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_linked_list_size","content_type":"Construction Problems","display_name":"Construct a function that checks the siz","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_linked_list_size","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"ps_python_merge_sort","content_type":"Construction Problems","display_name":"Construct a function that sorts a numeri","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_merge_sort","page_numbers":81,"section_id":"Section 6.4"},{"content_name":"ps_python_quick_sorting","content_type":"Construction Problems","display_name":"Practicing quick sort algorithm","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_quick_sorting","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_tree_inorder_traversal","content_type":"Construction Problems","display_name":"Construct an inorder traversal function","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_tree_inorder_traversal","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"ps_python_tree_preorder_traversal","content_type":"Construction Problems","display_name":"Construct a preorder traversal function","url":"https:\/\/acos.cs.vt.edu\/html\/jsparsons\/jsparsons-python\/ps_python_tree_preorder_traversal","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_bmi_calculator","content_type":"Examples","display_name":"BMI Calculator","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_bmi_calculator","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_f_to_c_conversion","content_type":"Examples","display_name":"Unit Converter","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_f_to_c_conversion","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_fail_course","content_type":"Examples","display_name":"Pass-Fail Rule","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_fail_course","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_if_else_grade","content_type":"Examples","display_name":"The Grade Letter","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_if_else_grade","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_if_else_num","content_type":"Examples","display_name":"The Sign of a Number","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_if_else_num","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_if_else_wage","content_type":"Examples","display_name":"The Wage of an Employee","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_if_else_wage","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_phone_age","content_type":"Examples","display_name":"Buying a New Phone","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_phone_age","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_pythagorean_theorem","content_type":"Examples","display_name":"Pythagorean Theorem","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_pythagorean_theorem","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_rent_car","content_type":"Examples","display_name":"Renting a Car","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_rent_car","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_time_conversion","content_type":"Examples","display_name":"Time Converter","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_time_conversion","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_vending_machine","content_type":"Examples","display_name":"Vending Machine","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_vending_machine","page_numbers":37,"section_id":"Section 2.10"},{"content_name":"py_check_adjacent","content_type":"Examples","display_name":"Comparing Adjacent Numbers in a Sequence","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_check_adjacent","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"py_digits","content_type":"Examples","display_name":"Processing the Digits of an Integer ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_digits","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"py_divisor","content_type":"Examples","display_name":"Finding Smallest\/Largest Divisor of a Po","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_divisor","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_find_average","content_type":"Examples","display_name":"Calculating the Average of the Input Num","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_find_average","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_hot_dry","content_type":"Examples","display_name":"Hot-Dry Weather","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_hot_dry","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_input","content_type":"Examples","display_name":"Receiving Input Integers Until a Certain","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_input","page_numbers":69,"section_id":"Section 5.2"},{"content_name":"py_nested_if_min_max","content_type":"Examples","display_name":"The Min\/Max of Three Integers","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_nested_if_min_max","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_nested_if_temperature","content_type":"Examples","display_name":"Warning about the Changes in the Weather","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_nested_if_temperature","page_numbers":44,"section_id":"Section 3.3"},{"content_name":"py_range_one","content_type":"Examples","display_name":"Printing Consecutive Numbers Starting fr","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_range_one","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_range_three","content_type":"Examples","display_name":"Printing Sequence of Numbers with a Gap ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_range_three","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_range_two","content_type":"Examples","display_name":"Printing Consecutive Numbers Within a Sp","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_range_two","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_squares","content_type":"Examples","display_name":"Printing the Squares of Numbers Within a","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_squares","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_three_booleans","content_type":"Examples","display_name":"Three Booleans","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_three_booleans","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_win_percentage","content_type":"Examples","display_name":"Calculating the Winning Percentage of a ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_win_percentage","page_numbers":73,"section_id":"Section 5.6"},{"content_name":"py_repeated_sequence","content_type":"Examples","display_name":"Printing A Sequence of Repeated Numbers","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_repeated_sequence","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_star_patterns","content_type":"Examples","display_name":"Printing A Right Triangle Star Pattern","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_star_patterns","page_numbers":39,"section_id":"Section 2.12"},{"content_name":"py_list_basic","content_type":"Examples","display_name":"Updating an Element in a List ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_basic","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_list_change","content_type":"Examples","display_name":"Modifying a List","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_change","page_numbers":104,"section_id":"Section 8.2"},{"content_name":"py_list_fill","content_type":"Examples","display_name":"Adding Values to an Empty List","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_fill","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_list_min_max","content_type":"Examples","display_name":"Finding the Min\/Max Value in a List","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_min_max","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_list_rotate","content_type":"Examples","display_name":"Rotating the List Values","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list_rotate","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_search_list","content_type":"Examples","display_name":"Searching Values of a List in Another Li","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_search_list","page_numbers":83,"section_id":"Section 6.7"},{"content_name":"py_concat_char_two_str","content_type":"Examples","display_name":"Concatenating Characters of Two Strings","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_concat_char_two_str","page_numbers":81,"section_id":"Section 6.4"},{"content_name":"py_concat_str_num","content_type":"Examples","display_name":"Concatenating Strings and Numbers ","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_concat_str_num","page_numbers":34,"section_id":"Section 2.5"},{"content_name":"py_str_count","content_type":"Examples","display_name":"Counting the Occurrences of One String i","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_str_count","page_numbers":87,"section_id":"Section 6.12"},{"content_name":"py_str_repeat_chars","content_type":"Examples","display_name":"Repeating Characters of a String","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_str_repeat_chars","page_numbers":87,"section_id":"Section 6.12"},{"content_name":"py_check_age","content_type":"Examples","display_name":"Determining Whether One is a Teenager","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_check_age","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_list2d_basic","content_type":"Examples","display_name":"Updating Two-Dimensional List","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_list2d_basic","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_print_medals","content_type":"Examples","display_name":"Printing Table of Medal Counts with Row\/","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_print_medals","page_numbers":76,"section_id":"Section 5.8"},{"content_name":"py_soda_survey","content_type":"Examples","display_name":"Processing the Results of a Soda Survey","url":"http:\/\/pawscomp2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_soda_survey","page_numbers":58,"section_id":"Section 4.5"},{"content_name":"py_datatype_input_manipulation","content_type":"Examples","display_name":"Input Manipulation","url":"http:\/\/adapt2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_datatype_input_manipulation","page_numbers":57,"section_id":"Section 4.4"},{"content_name":"py_functions_multiple_parameters","content_type":"Examples","display_name":"Multiple Parameters","url":"http:\/\/adapt2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_functions_multiple_parameters","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_recursion_gcf","content_type":"Examples","display_name":"Greatest Common Factor","url":"http:\/\/adapt2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_recursion_gcf","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_search_binary_recursive","content_type":"Examples","display_name":"Recursive Binary Search","url":"http:\/\/adapt2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_search_binary_recursive","page_numbers":63,"section_id":"Section 4.10"},{"content_name":"py_sorting_selection_sort","content_type":"Examples","display_name":"Selection sort","url":"http:\/\/adapt2.sis.pitt.edu\/pcex\/index.html?lang=PYTHON&set=py_sorting_selection_sort","page_numbers":86,"section_id":"Section 6.11"}]
+[
+    {
+        "content_name": "q_py_arithmetic1",
+        "content_type": "Tracing Problems",
+        "display_name": "simple arithmetic",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic1&act=q_py_topic_variables&sub=q_py_arithmetic1",
+        "page_numbers": 36,
+        "section_id": "Section 2.8"
+    },
+    {
+        "content_name": "q_py_arithmetic2",
+        "content_type": "Tracing Problems",
+        "display_name": "arithmetic",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic2&act=q_py_topic_variables&sub=q_py_arithmetic2",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "q_py_swap1",
+        "content_type": "Tracing Problems",
+        "display_name": "swap",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_swap1&act=q_py_topic_variables&sub=q_py_swap1",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "q_py_if_elif1",
+        "content_type": "Tracing Problems",
+        "display_name": "if-elif",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_if_elif1&act=q_py_topic_if_statement&sub=q_py_if_elif1",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "q_py_nested_if_elif1",
+        "content_type": "Tracing Problems",
+        "display_name": "nested if-elif",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1",
+        "page_numbers": 46,
+        "section_id": "Section 3.5"
+    },
+    {
+        "content_name": "q_py_comparison_logic1",
+        "content_type": "Tracing Problems",
+        "display_name": "comparison",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_comparison_logic1&act=q_py_topic_logical_operators&sub=q_py_comparison_logic1",
+        "page_numbers": 43,
+        "section_id": "Section 3.1"
+    },
+    {
+        "content_name": "q_py_account_logic1",
+        "content_type": "Tracing Problems",
+        "display_name": "account management",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_account_logic1&act=q_py_topic_logical_operators&sub=q_py_account_logic1",
+        "page_numbers": 50,
+        "section_id": "Section 3.8"
+    },
+    {
+        "content_name": "q_py_for_loop1",
+        "content_type": "Tracing Problems",
+        "display_name": "for loop",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_for_loop1&act=q_py_topic_loops&sub=q_py_for_loop1",
+        "page_numbers": 76,
+        "section_id": "Section 5.8"
+    },
+    {
+        "content_name": "q_py_while_loop1",
+        "content_type": "Tracing Problems",
+        "display_name": "while loop",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop1&act=q_py_topic_loops&sub=q_py_while_loop1",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "q_py_nested_while1",
+        "content_type": "Tracing Problems",
+        "display_name": "nested while",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_while1&act=q_py_topic_loops&sub=q_py_nested_while1",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "q_py_output1",
+        "content_type": "Tracing Problems",
+        "display_name": "simple format",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output1&act=q_py_topic_output_formatting&sub=q_py_output1",
+        "page_numbers": 57,
+        "section_id": "Section 4.4"
+    },
+    {
+        "content_name": "q_py_output2",
+        "content_type": "Tracing Problems",
+        "display_name": "format with one argument",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output2&act=q_py_topic_output_formatting&sub=q_py_output2",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_output3",
+        "content_type": "Tracing Problems",
+        "display_name": "format with two arguments",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output3&act=q_py_topic_output_formatting&sub=q_py_output3",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_output4",
+        "content_type": "Tracing Problems",
+        "display_name": "format with three arguments",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output4&act=q_py_topic_output_formatting&sub=q_py_output4",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_fun_car1",
+        "content_type": "Tracing Problems",
+        "display_name": "one simple function",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_fun_car2",
+        "content_type": "Tracing Problems",
+        "display_name": "two simple functions",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_list_access1",
+        "content_type": "Tracing Problems",
+        "display_name": "modify a list",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access1&act=q_py_topic_lists&sub=q_py_list_access1",
+        "page_numbers": 114,
+        "section_id": "Section 8.14"
+    },
+    {
+        "content_name": "q_py_list_access2",
+        "content_type": "Tracing Problems",
+        "display_name": "modify a list in a loop",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access2&act=q_py_topic_lists&sub=q_py_list_access2",
+        "page_numbers": 76,
+        "section_id": "Section 5.8"
+    },
+    {
+        "content_name": "q_py_list_append1",
+        "content_type": "Tracing Problems",
+        "display_name": "append to a list",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "q_py_add_two_lists1",
+        "content_type": "Tracing Problems",
+        "display_name": "combine two lists",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "q_py_list_remove1",
+        "content_type": "Tracing Problems",
+        "display_name": "remove from a list",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_remove1&act=q_py_topic_lists&sub=q_py_list_remove1",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "q_py_concat_strings1",
+        "content_type": "Tracing Problems",
+        "display_name": "concatenate strings",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_concat_strings1&act=q_py_topic_strings&sub=q_py_concat_strings1",
+        "page_numbers": 87,
+        "section_id": "Section 6.12"
+    },
+    {
+        "content_name": "q_py_substring1",
+        "content_type": "Tracing Problems",
+        "display_name": "substring",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_substring1&act=q_py_topic_strings&sub=q_py_substring1",
+        "page_numbers": 81,
+        "section_id": "Section 6.4"
+    },
+    {
+        "content_name": "q_py_dict_access1",
+        "content_type": "Tracing Problems",
+        "display_name": "access a dictionary",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access1&act=q_py_topic_dictionary&sub=q_py_dict_access1",
+        "page_numbers": 126,
+        "section_id": "Section 9.5"
+    },
+    {
+        "content_name": "q_py_dict_access2",
+        "content_type": "Tracing Problems",
+        "display_name": "access and mofify a dictionary",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2",
+        "page_numbers": 126,
+        "section_id": "Section 9.5"
+    },
+    {
+        "content_name": "q_py_obj_car1",
+        "content_type": "Tracing Problems",
+        "display_name": "one car object",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1",
+        "page_numbers": 194,
+        "section_id": "Section 14.11"
+    },
+    {
+        "content_name": "q_py_obj_car2",
+        "content_type": "Tracing Problems",
+        "display_name": "two car objects",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2",
+        "page_numbers": 194,
+        "section_id": "Section 14.11"
+    },
+    {
+        "content_name": "q_py_int_ref1",
+        "content_type": "Tracing Problems",
+        "display_name": "int reference",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_int_ref1&act=q_py_topic_references&sub=q_py_int_ref1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_list_int_ref1",
+        "content_type": "Tracing Problems",
+        "display_name": "list reference (int)",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_int_ref1&act=q_py_topic_references&sub=q_py_list_int_ref1",
+        "page_numbers": 59,
+        "section_id": "Section 4.6"
+    },
+    {
+        "content_name": "q_py_str_ref1",
+        "content_type": "Tracing Problems",
+        "display_name": "string reference",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_str_ref1&act=q_py_topic_references&sub=q_py_str_ref1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_list_str_ref1",
+        "content_type": "Tracing Problems",
+        "display_name": "list reference (string)",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_value_except1",
+        "content_type": "Tracing Problems",
+        "display_name": "value error",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_list_except1",
+        "content_type": "Tracing Problems",
+        "display_name": "index error",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1",
+        "page_numbers": 88,
+        "section_id": "Section 6.12"
+    },
+    {
+        "content_name": "q_py_rw_file1",
+        "content_type": "Tracing Problems",
+        "display_name": "read and write file (string)",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_rw_file1&act=q_py_topic_file&sub=q_py_rw_file1",
+        "page_numbers": 59,
+        "section_id": "Section 4.6"
+    },
+    {
+        "content_name": "q_py_rw_file2",
+        "content_type": "Tracing Problems",
+        "display_name": "read and write file",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_rw_file2&act=q_py_topic_file&sub=q_py_rw_file2",
+        "page_numbers": 81,
+        "section_id": "Section 6.4"
+    },
+    {
+        "content_name": "q_py_exchange1",
+        "content_type": "Tracing Problems",
+        "display_name": "exchange variables",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange1&act=q_py_topic_variables&sub=q_py_exchange1",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "q_py_exchange2",
+        "content_type": "Tracing Problems",
+        "display_name": "exchange variables 2",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange2&act=q_py_topic_variables&sub=q_py_exchange2",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "q_py_nested_if1",
+        "content_type": "Tracing Problems",
+        "display_name": "nested if",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_interest_if_else1",
+        "content_type": "Tracing Problems",
+        "display_name": "if-else (interest)",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_interest_if_else1&sub=q_py_interest_if_else1&act=q_py_topic_if_statement",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "q_py_interest_if_elif1",
+        "content_type": "Tracing Problems",
+        "display_name": "if-elif? (interest)",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_interest_if_elif1&sub=q_py_interest_if_elif1&act=q_py_topic_if_statement",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "q_py_nested_if_elif2",
+        "content_type": "Tracing Problems",
+        "display_name": "nested if-elif",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif2&sub=q_py_nested_if_elif2&act=q_py_topic_if_statement",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "q_py_while_loop2",
+        "content_type": "Tracing Problems",
+        "display_name": "while loop with summation",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop2&sub=q_py_while_loop2&act=q_py_topic_loops",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "q_py_obj_account1",
+        "content_type": "Tracing Problems",
+        "display_name": "account objects",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects",
+        "page_numbers": 194,
+        "section_id": "Section 14.11"
+    },
+    {
+        "content_name": "q_py_obj_point1",
+        "content_type": "Tracing Problems",
+        "display_name": "point object",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects",
+        "page_numbers": 194,
+        "section_id": "Section 14.11"
+    },
+    {
+        "content_name": "q_py_obj_bus1",
+        "content_type": "Tracing Problems",
+        "display_name": "bus objects",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects",
+        "page_numbers": 194,
+        "section_id": "Section 14.11"
+    },
+    {
+        "content_name": "q_py_obj_student1",
+        "content_type": "Tracing Problems",
+        "display_name": "student objects",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects",
+        "page_numbers": 194,
+        "section_id": "Section 14.11"
+    },
+    {
+        "content_name": "q_py_inheritance_animal1",
+        "content_type": "Tracing Problems",
+        "display_name": "animal inheritance",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects",
+        "page_numbers": 194,
+        "section_id": "Section 14.11"
+    },
+    {
+        "content_name": "q_py_demoquestion",
+        "content_type": "Tracing Problems",
+        "display_name": "q_py_demoquestion",
+        "url": "http://pawscomp2.sis.pitt.edu/quizjet/displayQuiz.jsp?rdfID=q_py_demoquestion",
+        "page_numbers": 31,
+        "section_id": "Section 2.1"
+    },
+    {
+        "content_name": "q_py_demoquestion1",
+        "content_type": "Tracing Problems",
+        "display_name": "q_py_demoquestion1",
+        "url": "http://pawscomp2.sis.pitt.edu/quizjet/displayQuiz.jsp?rdfID=q_py_demoquestion1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_demoquestion2",
+        "content_type": "Tracing Problems",
+        "display_name": "q_py_demoquestion2",
+        "url": "http://pawscomp2.sis.pitt.edu/quizjet/displayQuiz.jsp?rdfID=q_py_demoquestion2",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_demoquestion2_v1",
+        "content_type": "Tracing Problems",
+        "display_name": "q_py_demoquestion2_v1",
+        "url": "http://pawscomp2.sis.pitt.edu/quizjet/displayQuiz.jsp?rdfID=q_py_demoquestion2_v1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_demoquestion2_v2",
+        "content_type": "Tracing Problems",
+        "display_name": "q_py_demoquestion2_v2",
+        "url": "http://pawscomp2.sis.pitt.edu/quizjet/displayQuiz.jsp?rdfID=q_py_demoquestion2_v2",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_demoquestion2_v3",
+        "content_type": "Tracing Problems",
+        "display_name": "q_py_demoquestion2_v3",
+        "url": "http://pawscomp2.sis.pitt.edu/quizjet/displayQuiz.jsp?rdfID=q_py_demoquestion2_v3",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_if_elif1_v1",
+        "content_type": "Tracing Problems",
+        "display_name": "q_py_if_elif1_v1",
+        "url": "http://pawscomp2.sis.pitt.edu/quizjet/displayQuiz.jsp?rdfID=q_py_if_elif1_v1",
+        "page_numbers": 46,
+        "section_id": "Section 3.5"
+    },
+    {
+        "content_name": "q_py_file1",
+        "content_type": "Tracing Problems",
+        "display_name": "File Processing 1",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_file1&act=q_py_topic_file_processing&sub=q_py_file1",
+        "page_numbers": 101,
+        "section_id": "Section 7.10"
+    },
+    {
+        "content_name": "q_py_q_py_string_formatting",
+        "content_type": "Tracing Problems",
+        "display_name": "String Formatting",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting&sub=q_py_q_py_string_formatting&act=q_py_topic_strings",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_q_py_string_formatting2",
+        "content_type": "Tracing Problems",
+        "display_name": "String Formatting 2",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting2&sub=q_py_q_py_string_formatting2&act=q_py_topic_strings",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_q_py_datatype1",
+        "content_type": "Tracing Problems",
+        "display_name": "Data Type 1",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_q_py_datatype1&sub=q_py_q_py_datatype1&act=q_py__type_data_types",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "q_py_q_py_string_formatting1",
+        "content_type": "Tracing Problems",
+        "display_name": "String Formatting 1",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting1&sub=q_py_q_py_string_formatting1&act=q_py_topic_strings",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_data_types2",
+        "content_type": "Tracing Problems",
+        "display_name": "Data Types 2",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_data_types2&sub=q_py_data_types2&act=q_py__type_data_types",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "q_py_data_types_functions",
+        "content_type": "Tracing Problems",
+        "display_name": "Data Types Functions",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_data_types_functions&sub=q_py_data_types_functions&act=q_py__type_data_types",
+        "page_numbers": 59,
+        "section_id": "Section 4.6"
+    },
+    {
+        "content_name": "q_py_data_types_module",
+        "content_type": "Tracing Problems",
+        "display_name": "Data Types Module",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_data_types_module&sub=q_py_data_types_module&act=q_py__type_data_types",
+        "page_numbers": 57,
+        "section_id": "Section 4.4"
+    },
+    {
+        "content_name": "q_py_reference_list1",
+        "content_type": "Tracing Problems",
+        "display_name": "Reference List 1",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_reference_list1&sub=q_py_reference_list1&act=q_py_values_and_references",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_reference_reverse",
+        "content_type": "Tracing Problems",
+        "display_name": "Reference Reverse",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_reference_reverse&sub=q_py_reference_reverse&act=q_py_values_and_references",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_aliasing1",
+        "content_type": "Tracing Problems",
+        "display_name": "Aliasing 1",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_aliasing1&sub=q_py_aliasing1&act=q_py_Aliasing",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "q_py_aliasing2",
+        "content_type": "Tracing Problems",
+        "display_name": "Aliasing 2",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_aliasing2&sub=q_py_aliasing2&act=q_py_Aliasing",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "q_py_aliasing3",
+        "content_type": "Tracing Problems",
+        "display_name": "Aliasing 3",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_aliasing3&sub=q_py_aliasing3&act=q_py_Aliasing",
+        "page_numbers": 32,
+        "section_id": "Section 2.2"
+    },
+    {
+        "content_name": "q_py_q_py_string_formatting_v1",
+        "content_type": "Tracing Problems",
+        "display_name": "String Formatting V1",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting_v1&sub=q_py_q_py_string_formatting_v1&act=q_py_topic_strings",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_exceptions_addarr",
+        "content_type": "Tracing Problems",
+        "display_name": "Exceptions addarr",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exceptions_addarr&sub=q_py_exceptions_addarr&act=q_py_topic_exceptions",
+        "page_numbers": 48,
+        "section_id": "Section 3.7"
+    },
+    {
+        "content_name": "q_py_exception_asE",
+        "content_type": "Tracing Problems",
+        "display_name": "Exceptions asE",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exception_asE&sub=q_py_exception_asE&act=q_py_topic_exceptions",
+        "page_numbers": 48,
+        "section_id": "Section 3.7"
+    },
+    {
+        "content_name": "q_py_exception_assertion",
+        "content_type": "Tracing Problems",
+        "display_name": "Exceptions Assertion",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exception_assertion&sub=q_py_exception_assertion&act=q_py_topic_exceptions",
+        "page_numbers": 48,
+        "section_id": "Section 3.7"
+    },
+    {
+        "content_name": "q_py_fstring_format_1",
+        "content_type": "Tracing Problems",
+        "display_name": "f-string formatting 1",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fstring_format_1&sub=q_py_fstring_format_1&act=q_py_topic_output_formatting",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_fstring_format_2",
+        "content_type": "Tracing Problems",
+        "display_name": "f-string formatting 2",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fstring_format_2&sub=q_py_fstring_format_2&act=q_py_topic_output_formatting",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_fstring_format_3",
+        "content_type": "Tracing Problems",
+        "display_name": "f-string formatting 3",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fstring_format_3&sub=q_py_fstring_format_3&act=q_py_topic_output_formatting",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_fstring_format_4",
+        "content_type": "Tracing Problems",
+        "display_name": "f-string formatting 4",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fstring_format_4&sub=q_py_fstring_format_4&act=q_py_topic_output_formatting",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_nested_for_while",
+        "content_type": "Tracing Problems",
+        "display_name": "Nested For and While Loop",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_for_while&sub=q_py_nested_for_while&act=q_py_topic_loops",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "q_py_nested_for_loop",
+        "content_type": "Tracing Problems",
+        "display_name": "Nested for loop",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_for_loop&sub=q_py_nested_for_loop&act=q_py_topic_loops",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "q_py_bubble_sort_1",
+        "content_type": "Tracing Problems",
+        "display_name": "Bubble sort 1",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_bubble_sort_1&sub=q_py_bubble_sort_1&act=q_py_sorting",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_bubble_sort_2",
+        "content_type": "Tracing Problems",
+        "display_name": "Bubble sort 2",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_bubble_sort_2&sub=q_py_bubble_sort_2&act=q_py_sorting",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "q_py_max_index_search",
+        "content_type": "Tracing Problems",
+        "display_name": "Max index search",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_max_index_search&sub=q_py_max_index_search&act=q_py_search",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "q_py_tuple",
+        "content_type": "Tracing Problems",
+        "display_name": "Tuple",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_tuple&sub=q_py_tuple&act=q_py_values_and_references",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "q_py_function_pass",
+        "content_type": "Tracing Problems",
+        "display_name": "Functions pass",
+        "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_function_pass&sub=q_py_function_pass&act=q_py_topic_functions",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_bmi_calculator2",
+        "content_type": "Challenges",
+        "display_name": "BMI Calculator",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_bmi_calculator&ch=py_bmi_calculator2",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_fahrenheit_to_celsius",
+        "content_type": "Challenges",
+        "display_name": "Unit Converter",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion&ch=py_fahrenheit_to_celsius",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_fail_course2",
+        "content_type": "Challenges",
+        "display_name": "Pass-Fail Rule (Case 2)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course&ch=py_fail_course2",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_ifelseif_grade2",
+        "content_type": "Challenges",
+        "display_name": "The Grade Letter",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_grade&ch=py_ifelseif_grade2",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_ifelse_odd_even",
+        "content_type": "Challenges",
+        "display_name": "The Sign of a Number",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num&ch=py_ifelse_odd_even",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_if_else_wage2",
+        "content_type": "Challenges",
+        "display_name": "The Wage of an Employee",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage&ch=py_if_else_wage2",
+        "page_numbers": 46,
+        "section_id": "Section 3.5"
+    },
+    {
+        "content_name": "py_phone_age2",
+        "content_type": "Challenges",
+        "display_name": "Buying a New Phone",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age&ch=py_phone_age2",
+        "page_numbers": 46,
+        "section_id": "Section 3.5"
+    },
+    {
+        "content_name": "py_pythagorean_theorem2",
+        "content_type": "Challenges",
+        "display_name": "Pythagorean Theorem",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem&ch=py_pythagorean_theorem2",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_rent_car2",
+        "content_type": "Challenges",
+        "display_name": "Renting a Car (Case 2)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car&ch=py_rent_car2",
+        "page_numbers": 46,
+        "section_id": "Section 3.5"
+    },
+    {
+        "content_name": "py_rent_car3",
+        "content_type": "Challenges",
+        "display_name": "Renting a Car (Case 3)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car&ch=py_rent_car3",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_display_time2",
+        "content_type": "Challenges",
+        "display_name": "Time Converter",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_time_conversion&ch=py_display_time2",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_vending_machine2",
+        "content_type": "Challenges",
+        "display_name": "Vending Machine",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine&ch=py_vending_machine2",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_adjacent_consecutive",
+        "content_type": "Challenges",
+        "display_name": "Comparing Adjacent Numbers in a Sequence",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent&ch=py_adjacent_consecutive",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "py_adjacent_greater",
+        "content_type": "Challenges",
+        "display_name": "Comparing Adjacent Numbers in a Sequence",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent&ch=py_adjacent_greater",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "py_reverse_number",
+        "content_type": "Challenges",
+        "display_name": "Processing the Digits of an Integer (Cas",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits&ch=py_reverse_number",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "py_boolean_dry_hot2",
+        "content_type": "Challenges",
+        "display_name": "Hot-Dry Weather (Case 2)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry&ch=py_boolean_dry_hot2",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_boolean_dry_hot3",
+        "content_type": "Challenges",
+        "display_name": "Hot-Dry Weather (Case 3)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry&ch=py_boolean_dry_hot3",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_boolean_dry_hot4",
+        "content_type": "Challenges",
+        "display_name": "Hot-Dry Weather (Case 4)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry&ch=py_boolean_dry_hot4",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_input2",
+        "content_type": "Challenges",
+        "display_name": "Receiving Input Integers Until a Certain",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input&ch=py_input2",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "py_input3",
+        "content_type": "Challenges",
+        "display_name": "Receiving Input Integers Until a Certain",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input&ch=py_input3",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "py_input4",
+        "content_type": "Challenges",
+        "display_name": "Receiving Input Integers Until a Certain",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input&ch=py_input4",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_nested_if_max_of_three",
+        "content_type": "Challenges",
+        "display_name": "The Min/Max of Three Integers",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_min_max&ch=py_nested_if_max_of_three",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_nested_if_temperature2",
+        "content_type": "Challenges",
+        "display_name": "Warning about the Changes in the Weather",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_temperature&ch=py_nested_if_temperature2",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_range1_2",
+        "content_type": "Challenges",
+        "display_name": "Printing Consecutive Numbers Starting fr",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_one&ch=py_range1_2",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_range3_2",
+        "content_type": "Challenges",
+        "display_name": "Printing Sequence of Numbers with a Gap ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_three&ch=py_range3_2",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_range2_2",
+        "content_type": "Challenges",
+        "display_name": "Printing Consecutive Numbers Within a Sp",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_two&ch=py_range2_2",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_write_squares_odd",
+        "content_type": "Challenges",
+        "display_name": "Printing the Squares of Numbers Within a",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_squares&ch=py_write_squares_odd",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_write_squares_range",
+        "content_type": "Challenges",
+        "display_name": "Printing the Squares of Numbers Within a",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_squares&ch=py_write_squares_range",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_three_boolean2",
+        "content_type": "Challenges",
+        "display_name": "Three Booleans (Case 2)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans&ch=py_three_boolean2",
+        "page_numbers": 45,
+        "section_id": "Section 3.4"
+    },
+    {
+        "content_name": "py_three_boolean3",
+        "content_type": "Challenges",
+        "display_name": "Three Booleans (Case 3)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans&ch=py_three_boolean3",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_win_percentage_input",
+        "content_type": "Challenges",
+        "display_name": "Calculating the Winning Percentage of a ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage&ch=py_win_percentage_input",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_win_percentage_won_equal",
+        "content_type": "Challenges",
+        "display_name": "Calculating the Winning Percentage of a ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage&ch=py_win_percentage_won_equal",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_repeated_sequence2",
+        "content_type": "Challenges",
+        "display_name": "Printing A Sequence of Repeated Numbers",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_repeated_sequence&ch=py_repeated_sequence2",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_stars_2",
+        "content_type": "Challenges",
+        "display_name": "Printing A Right Triangle Star Pattern",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_star_patterns&ch=py_stars_2",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_list_basic2",
+        "content_type": "Challenges",
+        "display_name": "Updating an Element in a List (Case 2)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic&ch=py_list_basic2",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_list_basic3",
+        "content_type": "Challenges",
+        "display_name": "Updating an Element in a List (Case 3)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic&ch=py_list_basic3",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_list_swap_adjacent_elements",
+        "content_type": "Challenges",
+        "display_name": "Modifying a List",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change&ch=py_list_swap_adjacent_elements",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_list_fill_user_input",
+        "content_type": "Challenges",
+        "display_name": "Adding Values to an Empty List",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill&ch=py_list_fill_user_input",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_list_min",
+        "content_type": "Challenges",
+        "display_name": "Finding the Min/Max Value in a List",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max&ch=py_list_min",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_list_rotate_left_twice",
+        "content_type": "Challenges",
+        "display_name": "Rotating the List Values (Case 2)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate&ch=py_list_rotate_left_twice",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_list_rotate_right",
+        "content_type": "Challenges",
+        "display_name": "Rotating the List Values (Case 3)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate&ch=py_list_rotate_right",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_list_rotate_right_twice",
+        "content_type": "Challenges",
+        "display_name": "Rotating the List Values (Case 4)",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate&ch=py_list_rotate_right_twice",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_temperature_list_days_above_threshold",
+        "content_type": "Challenges",
+        "display_name": "Processing a List of Temperature Values",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature&ch=py_temperature_list_days_above_threshold",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_concat_char_two_str2",
+        "content_type": "Challenges",
+        "display_name": "Concatenating Characters of Two Strings",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str&ch=py_concat_char_two_str2",
+        "page_numbers": 81,
+        "section_id": "Section 6.4"
+    },
+    {
+        "content_name": "py_concat_str_num2",
+        "content_type": "Challenges",
+        "display_name": "Concatenating Strings and Numbers (Case ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_str_num&ch=py_concat_str_num2",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "py_concat_string_num3",
+        "content_type": "Challenges",
+        "display_name": "Concatenating Strings and Numbers (Case ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_str_num&ch=py_concat_string_num3",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "py_str_count2",
+        "content_type": "Challenges",
+        "display_name": "Counting the Occurrences of One String i",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count&ch=py_str_count2",
+        "page_numbers": 82,
+        "section_id": " Section 6.6"
+    },
+    {
+        "content_name": "py_str_repeat2",
+        "content_type": "Challenges",
+        "display_name": "Repeating Characters of a String",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars&ch=py_str_repeat2",
+        "page_numbers": 82,
+        "section_id": " Section 6.6"
+    },
+    {
+        "content_name": "py_check_age2",
+        "content_type": "Challenges",
+        "display_name": "Determining Whether One is a Teenager",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age&ch=py_check_age2",
+        "page_numbers": 64,
+        "section_id": " Section 4.12"
+    },
+    {
+        "content_name": "py_check_product_code2",
+        "content_type": "Challenges",
+        "display_name": "Counting the Number of Valid and Banned ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code&ch=py_check_product_code2",
+        "page_numbers": 48,
+        "section_id": " Section 3.7"
+    },
+    {
+        "content_name": "py_work_hours2",
+        "content_type": "Challenges",
+        "display_name": "Reporting the Total Hours Each Employee ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours&ch=py_work_hours2",
+        "page_numbers": 73,
+        "section_id": " Section 5.6"
+    },
+    {
+        "content_name": "py_print_medals_row_column_total",
+        "content_type": "Challenges",
+        "display_name": "Printing Table of Medal Counts with Row/",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals&ch=py_print_medals_row_column_total",
+        "page_numbers": 73,
+        "section_id": " Section 5.6"
+    },
+    {
+        "content_name": "py_soda_survey_soda_avg",
+        "content_type": "Challenges",
+        "display_name": "Processing the Results of a Soda Survey ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey&ch=py_soda_survey_soda_avg",
+        "page_numbers": 73,
+        "section_id": " Section 5.6"
+    },
+    {
+        "content_name": "py_soda_survey_soda_respondent_avg",
+        "content_type": "Challenges",
+        "display_name": "Processing the Results of a Soda Survey ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey&ch=py_soda_survey_soda_respondent_avg",
+        "page_numbers": 73,
+        "section_id": " Section 5.6"
+    },
+    {
+        "content_name": "py_sum_digits",
+        "content_type": "Challenges",
+        "display_name": "Processing the Digits of an Integer (Cas",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits&ch=py_sum_digits",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "ps_hello",
+        "content_type": "Construction Problems",
+        "display_name": "Hello",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_hello",
+        "page_numbers": 31,
+        "section_id": "Section 2.1"
+    },
+    {
+        "content_name": "ps_simple_function",
+        "content_type": "Construction Problems",
+        "display_name": "Simple Function",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_simple_function",
+        "page_numbers": 59,
+        "section_id": "Section 4.6"
+    },
+    {
+        "content_name": "ps_simple_params",
+        "content_type": "Construction Problems",
+        "display_name": "Simple Params",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_simple_params",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_return_bigger_or_none",
+        "content_type": "Construction Problems",
+        "display_name": "Return Bigger or None",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_return_bigger_or_none",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_addition",
+        "content_type": "Construction Problems",
+        "display_name": "Addition",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_addition",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "ps_python_iteration_addition",
+        "content_type": "Construction Problems",
+        "display_name": "Iteration with Addition",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_iteration_addition",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "ps_python_iteration_multiplication",
+        "content_type": "Construction Problems",
+        "display_name": "Iteration with Multiplication",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_iteration_multiplication",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "ps_python_calculate_function",
+        "content_type": "Construction Problems",
+        "display_name": "Calculate Function",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_calculate_function",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_nested_calls",
+        "content_type": "Construction Problems",
+        "display_name": "Nested Calls",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_nested_calls",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_recursive_factorial",
+        "content_type": "Construction Problems",
+        "display_name": "Recursive Factorial",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_recursive_factorial",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_modulo_is_even",
+        "content_type": "Construction Problems",
+        "display_name": "Modulo is Even",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_modulo_is_even",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_list_iteration_zoo",
+        "content_type": "Construction Problems",
+        "display_name": "List Iteration Zoo",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_iteration_zoo",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_nested_lists_indexing",
+        "content_type": "Construction Problems",
+        "display_name": "Nested List Indexing",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_nested_lists_indexing",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_string_indexing",
+        "content_type": "Construction Problems",
+        "display_name": "String Indexing",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_string_indexing",
+        "page_numbers": 81,
+        "section_id": "Section 6.4"
+    },
+    {
+        "content_name": "ps_python_list_to_dict",
+        "content_type": "Construction Problems",
+        "display_name": "List to Dictionary",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_to_dict",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "ps_python_bigger_than",
+        "content_type": "Construction Problems",
+        "display_name": "Bigger Than",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_bigger_than",
+        "page_numbers": 43,
+        "section_id": "Section 3.1"
+    },
+    {
+        "content_name": "ps_python_conditionals_temperature",
+        "content_type": "Construction Problems",
+        "display_name": "Conditionals Temperature",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_conditionals_temperature",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "ps_python_swap",
+        "content_type": "Construction Problems",
+        "display_name": "Swap",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_swap",
+        "page_numbers": 32,
+        "section_id": "Section 2.2"
+    },
+    {
+        "content_name": "ps_python_nested_ifs",
+        "content_type": "Construction Problems",
+        "display_name": "Nested ifs",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_nested_ifs",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "ps_python_comparisons",
+        "content_type": "Construction Problems",
+        "display_name": "Comparisons",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_comparisons",
+        "page_numbers": 43,
+        "section_id": "Section 3.1"
+    },
+    {
+        "content_name": "ps_python_try_except",
+        "content_type": "Construction Problems",
+        "display_name": "Try Except",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_try_except",
+        "page_numbers": 48,
+        "section_id": " Section 3.7"
+    },
+    {
+        "content_name": "ps_python_printing_file_contents",
+        "content_type": "Construction Problems",
+        "display_name": "Printing file contents",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_printing_file_contents",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "ps_python_for_odd_or_even",
+        "content_type": "Construction Problems",
+        "display_name": "Odd or Even",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_for_odd_or_even",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "ps_python_xor",
+        "content_type": "Construction Problems",
+        "display_name": "XOR",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_xor",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "ps_python_string_join",
+        "content_type": "Construction Problems",
+        "display_name": "String join",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_string_join",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_try_adding",
+        "content_type": "Construction Problems",
+        "display_name": "Try adding",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_try_adding",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_nested_loops",
+        "content_type": "Construction Problems",
+        "display_name": "Nested Loops",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_nested_loops",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "ps_python_2d_list",
+        "content_type": "Construction Problems",
+        "display_name": "Two-dimensional List",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_2d_list",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_3digit_combinations",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a program that creates unique ",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_3digit_combinations",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_3digit_combinations2",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a program that creates unique ",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_3digit_combinations2",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_divsible_by1",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a program with multiple if-eli",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_divsible_by1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_divisible_by2",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a program with multiple if-eli",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_divisible_by2",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "ps_python_divisible_by3",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a program with multiple if-eli",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_divisible_by3",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_freq_of_char1",
+        "content_type": "Construction Problems",
+        "display_name": "Letter frequency",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_freq_of_char1",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_freq_of_char2",
+        "content_type": "Construction Problems",
+        "display_name": "Letter frequency",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_freq_of_char2",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_palindrome1",
+        "content_type": "Construction Problems",
+        "display_name": "Creating a function that checks if the s",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_palindrome1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_palindrome2",
+        "content_type": "Construction Problems",
+        "display_name": "Creating a function that checks if the s",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_palindrome2",
+        "page_numbers": 57,
+        "section_id": "Section 4.4"
+    },
+    {
+        "content_name": "ps_python_palindrome3",
+        "content_type": "Construction Problems",
+        "display_name": "Creating a function that checks if the s",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_palindrome3",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_palindrome4",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a function which determines wh",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_palindrome4",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_list_of_remainders1",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a function that returns a list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_of_remainders1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_list_of_remainders2",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a function that returns a list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_of_remainders2",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_list_reverse1",
+        "content_type": "Construction Problems",
+        "display_name": "Reverse the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_reverse1",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_list_reverse2",
+        "content_type": "Construction Problems",
+        "display_name": "Reverse the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_reverse2",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_list_reverse3",
+        "content_type": "Construction Problems",
+        "display_name": "Reverse the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_reverse3",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_list_reverse4",
+        "content_type": "Construction Problems",
+        "display_name": "Reverse the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_reverse4",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_list_reverse5",
+        "content_type": "Construction Problems",
+        "display_name": "Reverse the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_reverse5",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_list_reverse6",
+        "content_type": "Construction Problems",
+        "display_name": "Reverse the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_reverse6",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_list_reverse7",
+        "content_type": "Construction Problems",
+        "display_name": "Reverse the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_reverse7",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_list_reverse8",
+        "content_type": "Construction Problems",
+        "display_name": "Reverse the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_reverse8",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_sum_of_two1",
+        "content_type": "Construction Problems",
+        "display_name": "Checks whether the sum of two integers a",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_sum_of_two1",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_sum_of_two2",
+        "content_type": "Construction Problems",
+        "display_name": "Checks whether the sum of two integers a",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_sum_of_two2",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "ps_python_find_and_square1",
+        "content_type": "Construction Problems",
+        "display_name": "Updating  elements to the new list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_find_and_square1",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_find_and_square2",
+        "content_type": "Construction Problems",
+        "display_name": "Updating required elements to the new li",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_find_and_square2",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_find_and_square3",
+        "content_type": "Construction Problems",
+        "display_name": "Updating the elements to the new list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_find_and_square3",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_find_and_square4",
+        "content_type": "Construction Problems",
+        "display_name": "Updating the elements to the new list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_find_and_square4",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_find_and_square5",
+        "content_type": "Construction Problems",
+        "display_name": "Updating required elements to the new li",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_find_and_square5",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_find_and_square6",
+        "content_type": "Construction Problems",
+        "display_name": "Updating required elements to the new li",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_find_and_square6",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_easy_power1",
+        "content_type": "Construction Problems",
+        "display_name": "Power calculation",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_easy_power1",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "ps_python_easy_power2",
+        "content_type": "Construction Problems",
+        "display_name": "Power calculation",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_easy_power2",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "ps_python_fast_power1",
+        "content_type": "Construction Problems",
+        "display_name": "Calculating power ",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_fast_power1",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "ps_python_fast_power2",
+        "content_type": "Construction Problems",
+        "display_name": "Calculating power ",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_fast_power2",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "ps_python_power_with_loops1",
+        "content_type": "Construction Problems",
+        "display_name": "Calculating power ",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_power_with_loops1",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_power_with_loops2",
+        "content_type": "Construction Problems",
+        "display_name": "Calculating power ",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_power_with_loops2",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_remove_dublicates",
+        "content_type": "Construction Problems",
+        "display_name": "Remove dublicates from the list ",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_remove_dublicates",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_remove_dublicates2",
+        "content_type": "Construction Problems",
+        "display_name": "Remove dublicates from the list ",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_remove_dublicates2",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_even_first1",
+        "content_type": "Construction Problems",
+        "display_name": "Reorganize the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_even_first1",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_even_first2",
+        "content_type": "Construction Problems",
+        "display_name": "Reorganize the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_even_first2",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_even_first3",
+        "content_type": "Construction Problems",
+        "display_name": "Reorganize the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_even_first3",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_even_first4",
+        "content_type": "Construction Problems",
+        "display_name": "Reorganize the list",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_even_first4",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "ps_python_math_library",
+        "content_type": "Construction Problems",
+        "display_name": "Practicing using math library and check ",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_math_library",
+        "page_numbers": 57,
+        "section_id": "Section 4.4"
+    },
+    {
+        "content_name": "ps_python_data_type",
+        "content_type": "Construction Problems",
+        "display_name": "Practicing manipulating variables and ch",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_data_type",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    },
+    {
+        "content_name": "ps_python_nested_whiles",
+        "content_type": "Construction Problems",
+        "display_name": "Practicing nested while loops",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_nested_whiles",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_nested_loop_2",
+        "content_type": "Construction Problems",
+        "display_name": "Practicing using nested while and for lo",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_nested_loop_2",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "ps_python_add_to_list_2",
+        "content_type": "Construction Problems",
+        "display_name": "List values and references.",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_add_to_list_2",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_search_min_index",
+        "content_type": "Construction Problems",
+        "display_name": "Practicing searching the index of the mi",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_search_min_index",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "ps_python_search_min_max_index",
+        "content_type": "Construction Problems",
+        "display_name": "Practicing searching the index of the mi",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_search_min_max_index",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "ps_python_stack",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a program that creates a Stack",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_stack",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_linked_list_size",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a function that checks the siz",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_linked_list_size",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "ps_python_merge_sort",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a function that sorts a numeri",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_merge_sort",
+        "page_numbers": 81,
+        "section_id": "Section 6.4"
+    },
+    {
+        "content_name": "ps_python_quick_sorting",
+        "content_type": "Construction Problems",
+        "display_name": "Practicing quick sort algorithm",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_quick_sorting",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_tree_inorder_traversal",
+        "content_type": "Construction Problems",
+        "display_name": "Construct an inorder traversal function",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_tree_inorder_traversal",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "ps_python_tree_preorder_traversal",
+        "content_type": "Construction Problems",
+        "display_name": "Construct a preorder traversal function",
+        "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_tree_preorder_traversal",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_bmi_calculator",
+        "content_type": "Examples",
+        "display_name": "BMI Calculator",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_bmi_calculator",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_f_to_c_conversion",
+        "content_type": "Examples",
+        "display_name": "Unit Converter",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_fail_course",
+        "content_type": "Examples",
+        "display_name": "Pass-Fail Rule",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_if_else_grade",
+        "content_type": "Examples",
+        "display_name": "The Grade Letter",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_grade",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_if_else_num",
+        "content_type": "Examples",
+        "display_name": "The Sign of a Number",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_if_else_wage",
+        "content_type": "Examples",
+        "display_name": "The Wage of an Employee",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_phone_age",
+        "content_type": "Examples",
+        "display_name": "Buying a New Phone",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_pythagorean_theorem",
+        "content_type": "Examples",
+        "display_name": "Pythagorean Theorem",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_rent_car",
+        "content_type": "Examples",
+        "display_name": "Renting a Car",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_time_conversion",
+        "content_type": "Examples",
+        "display_name": "Time Converter",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_time_conversion",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_vending_machine",
+        "content_type": "Examples",
+        "display_name": "Vending Machine",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine",
+        "page_numbers": 37,
+        "section_id": "Section 2.10"
+    },
+    {
+        "content_name": "py_check_adjacent",
+        "content_type": "Examples",
+        "display_name": "Comparing Adjacent Numbers in a Sequence",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "py_digits",
+        "content_type": "Examples",
+        "display_name": "Processing the Digits of an Integer ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "py_divisor",
+        "content_type": "Examples",
+        "display_name": "Finding Smallest/Largest Divisor of a Po",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_find_average",
+        "content_type": "Examples",
+        "display_name": "Calculating the Average of the Input Num",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_hot_dry",
+        "content_type": "Examples",
+        "display_name": "Hot-Dry Weather",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_input",
+        "content_type": "Examples",
+        "display_name": "Receiving Input Integers Until a Certain",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input",
+        "page_numbers": 69,
+        "section_id": "Section 5.2"
+    },
+    {
+        "content_name": "py_nested_if_min_max",
+        "content_type": "Examples",
+        "display_name": "The Min/Max of Three Integers",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_min_max",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_nested_if_temperature",
+        "content_type": "Examples",
+        "display_name": "Warning about the Changes in the Weather",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_temperature",
+        "page_numbers": 44,
+        "section_id": "Section 3.3"
+    },
+    {
+        "content_name": "py_range_one",
+        "content_type": "Examples",
+        "display_name": "Printing Consecutive Numbers Starting fr",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_one",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_range_three",
+        "content_type": "Examples",
+        "display_name": "Printing Sequence of Numbers with a Gap ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_three",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_range_two",
+        "content_type": "Examples",
+        "display_name": "Printing Consecutive Numbers Within a Sp",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_two",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_squares",
+        "content_type": "Examples",
+        "display_name": "Printing the Squares of Numbers Within a",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_squares",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_three_booleans",
+        "content_type": "Examples",
+        "display_name": "Three Booleans",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_win_percentage",
+        "content_type": "Examples",
+        "display_name": "Calculating the Winning Percentage of a ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage",
+        "page_numbers": 73,
+        "section_id": "Section 5.6"
+    },
+    {
+        "content_name": "py_repeated_sequence",
+        "content_type": "Examples",
+        "display_name": "Printing A Sequence of Repeated Numbers",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_repeated_sequence",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_star_patterns",
+        "content_type": "Examples",
+        "display_name": "Printing A Right Triangle Star Pattern",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_star_patterns",
+        "page_numbers": 39,
+        "section_id": "Section 2.12"
+    },
+    {
+        "content_name": "py_list_basic",
+        "content_type": "Examples",
+        "display_name": "Updating an Element in a List ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_list_change",
+        "content_type": "Examples",
+        "display_name": "Modifying a List",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change",
+        "page_numbers": 104,
+        "section_id": "Section 8.2"
+    },
+    {
+        "content_name": "py_list_fill",
+        "content_type": "Examples",
+        "display_name": "Adding Values to an Empty List",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_list_min_max",
+        "content_type": "Examples",
+        "display_name": "Finding the Min/Max Value in a List",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_list_rotate",
+        "content_type": "Examples",
+        "display_name": "Rotating the List Values",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_search_list",
+        "content_type": "Examples",
+        "display_name": "Searching Values of a List in Another Li",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list",
+        "page_numbers": 83,
+        "section_id": "Section 6.7"
+    },
+    {
+        "content_name": "py_concat_char_two_str",
+        "content_type": "Examples",
+        "display_name": "Concatenating Characters of Two Strings",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str",
+        "page_numbers": 81,
+        "section_id": "Section 6.4"
+    },
+    {
+        "content_name": "py_concat_str_num",
+        "content_type": "Examples",
+        "display_name": "Concatenating Strings and Numbers ",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_str_num",
+        "page_numbers": 34,
+        "section_id": "Section 2.5"
+    },
+    {
+        "content_name": "py_str_count",
+        "content_type": "Examples",
+        "display_name": "Counting the Occurrences of One String i",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count",
+        "page_numbers": 87,
+        "section_id": "Section 6.12"
+    },
+    {
+        "content_name": "py_str_repeat_chars",
+        "content_type": "Examples",
+        "display_name": "Repeating Characters of a String",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars",
+        "page_numbers": 87,
+        "section_id": "Section 6.12"
+    },
+    {
+        "content_name": "py_check_age",
+        "content_type": "Examples",
+        "display_name": "Determining Whether One is a Teenager",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_list2d_basic",
+        "content_type": "Examples",
+        "display_name": "Updating Two-Dimensional List",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list2d_basic",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_print_medals",
+        "content_type": "Examples",
+        "display_name": "Printing Table of Medal Counts with Row/",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals",
+        "page_numbers": 76,
+        "section_id": "Section 5.8"
+    },
+    {
+        "content_name": "py_soda_survey",
+        "content_type": "Examples",
+        "display_name": "Processing the Results of a Soda Survey",
+        "url": "http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey",
+        "page_numbers": 58,
+        "section_id": "Section 4.5"
+    },
+    {
+        "content_name": "py_datatype_input_manipulation",
+        "content_type": "Examples",
+        "display_name": "Input Manipulation",
+        "url": "http://adapt2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_datatype_input_manipulation",
+        "page_numbers": 57,
+        "section_id": "Section 4.4"
+    },
+    {
+        "content_name": "py_functions_multiple_parameters",
+        "content_type": "Examples",
+        "display_name": "Multiple Parameters",
+        "url": "http://adapt2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_functions_multiple_parameters",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_recursion_gcf",
+        "content_type": "Examples",
+        "display_name": "Greatest Common Factor",
+        "url": "http://adapt2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_recursion_gcf",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_search_binary_recursive",
+        "content_type": "Examples",
+        "display_name": "Recursive Binary Search",
+        "url": "http://adapt2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_binary_recursive",
+        "page_numbers": 63,
+        "section_id": "Section 4.10"
+    },
+    {
+        "content_name": "py_sorting_selection_sort",
+        "content_type": "Examples",
+        "display_name": "Selection sort",
+        "url": "http://adapt2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_sorting_selection_sort",
+        "page_numbers": 86,
+        "section_id": "Section 6.11"
+    }
+]
