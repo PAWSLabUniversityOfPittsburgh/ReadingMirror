@@ -1,0 +1,107 @@
+[
+    {
+        "group": "Interactive System Design",
+        "title": "Section 1.1 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=2&usr={user.email}&grp=INFSCI2470Spring2023&docids=2@lamming-0002&filename=lamming_00000003.jpg&questionMode=section&subdocids=2",
+        "page": 1,
+        "section": "Section 1.1"
+    },
+    {
+        "group": "Interactive System Design",
+        "title": "Section 1.2 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=3&usr={user.email}&grp=INFSCI2470Spring2023&docids=3@lamming-0003,4@lamming-0004,5@lamming-0005,6@lamming-0006,7@lamming-0007,8@lamming-0008,9@lamming-0009&filename=lamming_00000004.jpg&questionMode=section&subdocids=3,4,5,6,7,8,9",
+        "page": 11,
+        "section": "Section 1.2"
+    },
+    {
+        "group": "Interactive System Design",
+        "title": "Section 1.3 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=10&usr={user.email}&grp=INFSCI2470Spring2023&docids=10@lamming-0010,11@lamming-0011,12@lamming-0012&filename=lamming_00000010.jpg&questionMode=section&subdocids=10,11,12",
+        "page": 12,
+        "section": "Section 1.3"
+    },
+    {
+        "group": "Designing User Interface",
+        "title": "Section 1.1 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=487&usr={user.email}&grp=INFSCI2470Spring2023&docids=487@shnm-0002&filename=shnm_00000022.png&questionMode=section&subdocids=487",
+        "page": 23,
+        "section": "Section 1.1"
+    },
+    {
+        "group": "Designing User Interface",
+        "title": "Section 1.2 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=488&usr={user.email}&grp=INFSCI2470Spring2023&docids=488@shnm-0003&filename=shnm_00000030.png&questionMode=section&subdocids=488",
+        "page": 26,
+        "section": "Section 1.2"
+    },
+    {
+        "group": "Designing User Interface",
+        "title": "Section 1.3 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=489&usr={user.email}&grp=INFSCI2470Spring2023&docids=489@shnm-0004&filename=shnm_00000033.png&questionMode=section&subdocids=489",
+        "page": 29,
+        "section": "Section 1.3"
+    },
+    {
+        "group": "Designing User Interface",
+        "title": "Section 1.4 Quiz",
+        "url":"http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=490&usr={user.email}&grp=INFSCI2470Spring2023&docids=490@shnm-0005,491@shnm-0006,492@shnm-0007,493@shnm-0008,494@shnm-0009,495@shnm-0010&filename=shnm_00000035.png&questionMode=section&subdocids=490,491,492,493,494,495",
+        "page": 36,
+        "section": "Section 1.4"
+    },
+    {
+        "group": "Designing User Interface",
+        "title": "Section 1.5 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=496&usr={user.email}&grp=INFSCI2470Fall2023&docids=496@shnm-0011,497@shnm-0012,498@shnm-0013,499@shnm-0014,500@shnm-0015,501@shnm-0016,502@shnm-0017,503@shnm-0018,504@shnm-0019&filename=shnm_00000042.png&questionMode=section&subdocids=496,497,498,499,500,501,502,503,504",
+        "page":51,
+        "section": "Section 1.5"
+    },
+    {
+        "group": "Designing User Interface",
+        "title": "Section 1.6 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=505&usr={user.email}&grp=INFSCI2470Fall2023&docids=505@shnm-0020,506@shnm-0021,507@shnm-0022,508@shnm-0023&filename=shnm_00000057.png&questionMode=section&subdocids=505,506,507,508",
+        "page":56,
+        "section": "Section 1.6"
+    },
+    {
+        "group": "Interactive System Design",
+        "title": "Section 3.2 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=43&usr={user.email}&grp=INFSCI2470Fall2023&docids=43@lamming-0043,44@lamming-0044,45@lamming-0045,46@lamming-0046,47@lamming-0047&filename=lamming_00000042.jpg&questionMode=section&subdocids=43,44,45,46,47",
+        "page": 8,
+        "section": "Section 3.2"
+    },
+    {
+        "group": "Interactive System Design",
+        "title": "Section 3.4 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=51&usr={user.email}&grp=INFSCI2470Fall2023&docids=51@lamming-0051,52@lamming-0052,53@lamming-0053,54@lamming-0054&filename=lamming_00000053.jpg&questionMode=section&subdocids=51,52,53,54",
+        "page": 17,
+        "section": "Section 3.4"
+    },
+    {
+        "group": "Interactive System Design",
+        "title": "Section 3.6",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=59&usr={user.email}&grp=INFSCI2470Fall2023&docids=59@lamming-0059,60@lamming-0060&filename=lamming_00000062.jpg&questionMode=section&subdocids=59,60",
+        "page": 27,
+        "section": "section 3.6"
+    },
+    {
+        "group": "Designing User Interface",
+        "title": "Section 3.2 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=772&usr={user.email}&grp=INFSCI2470Fall2023&docids=772@preece-0029&filename=preece_00000098.png&questionMode=section&subdocids=772",
+        "page":27,
+        "section": "Section 3.2"
+    },
+    {
+        "group": "Designing User Interface",
+        "title": "Section 3.3 Quiz",
+        "url": "http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=773&usr={user.email}&grp=INFSCI2470Fall2023&docids=773@preece-0030&filename=preece_00000114.png&questionMode=section&subdocids=773",
+        "page":27,
+        "section": "Section 3.3"
+    },
+    {
+        "group": "Designing User Interface",
+        "title": "Section 3.4 Quiz",
+        "url":"http://columbus.exp.sis.pitt.edu/development/sr-orig/questions/question.php?docid=773&usr={user.email}&grp=INFSCI2470Fall2023&docids=773@preece-0030&filename=preece_00000114.png&questionMode=section&subdocids=773",
+        "page":27,
+        "section":"Section 3.4"
+    }
+]
