@@ -221,7 +221,7 @@
         "title": "nested if",
         "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement",
         "section": "Section 6.11",
-        "page": 86
+        "page": 87
     },
     {
         "group": "3:Tracing Problems",
@@ -312,7 +312,7 @@
         "title": "String Formatting",
         "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting&sub=q_py_q_py_string_formatting&act=q_py_topic_strings",
         "section": "Section 6.11",
-        "page": 86
+        "page": 87
     },
     {
         "group": "3:Tracing Problems",
@@ -333,7 +333,7 @@
         "title": "String Formatting 1",
         "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting1&sub=q_py_q_py_string_formatting1&act=q_py_topic_strings",
         "section": "Section 6.11",
-        "page": 86
+        "page": 87
     },
     {
         "group": "3:Tracing Problems",
@@ -396,7 +396,7 @@
         "title": "String Formatting V1",
         "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_q_py_string_formatting_v1&sub=q_py_q_py_string_formatting_v1&act=q_py_topic_strings",
         "section": "Section 6.11",
-        "page": 86
+        "page": 87
     },
     {
         "group": "3:Tracing Problems",
@@ -424,7 +424,7 @@
         "title": "Tuple",
         "url": "http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_tuple&sub=q_py_tuple&act=q_py_values_and_references",
         "section": "Section 6.11",
-        "page": 86
+        "page": 87
     },
     {
         "group": "3:Tracing Problems",
@@ -837,7 +837,7 @@
         "title": "List to Dictionary",
         "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_list_to_dict",
         "section": "Section 6.11",
-        "page": 86
+        "page": 87
     },
     {
         "group": "4:Construction Problems",
@@ -1089,7 +1089,7 @@
         "title": "Practicing manipulating variables and ch",
         "url": "https://acos.cs.vt.edu/html/jsparsons/jsparsons-python/ps_python_data_type",
         "section": "Section 6.11",
-        "page": 86
+        "page": 87
     },
     {
         "group": "4:Construction Problems",
@@ -1432,6 +1432,6 @@
         "title": "Selection sort",
         "url": "http://adapt2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_sorting_selection_sort",
         "section": "Section 6.11",
-        "page": 86
+        "page": 87
     }
 ]
