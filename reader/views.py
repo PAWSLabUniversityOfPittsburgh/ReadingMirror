@@ -151,7 +151,7 @@ def load_course_with_section_id(request,url_course_id,url_section_id):
     username = request.GET.get('usr')
     cid = request.GET.get('cid')
     sid = request.GET.get('sid')
-
+    # breakpoint()
     #Force login without using password
     user = User.objects.get(username=username)
     user_id = user.id

@@ -517,38 +517,44 @@ def slc_programming(request):
 
         # smart_concepts_sections.loc[:,'final_concepts'] = smart_concepts_sections.apply(c.filter_concepts, axis=1)
 
-        main_sec_id = int(section_id.split('-')[1])
-        sub_sec_id = int(section_id.split('-')[2])
-        prev_sections = [f'pfe-{x}-{y}' for x in range(1,main_sec_id+1) for y in range(1, sub_sec_id+1)]
+        all_active = slc_models.SmartContentSection.objects.values().filter(is_active=1)
+        all_pages = [row['page_id'] for row in all_active]
 
-        prev_curr_section_concepts = pd.DataFrame.from_dict(slc_models.SmartContentSection.objects.values().filter(section_id__in=prev_sections,is_active=1))['concept'].to_list()
+        curr_item = slc_models.SmartContentSection.objects.values().filter(is_active=1,section_id=section_id)
+        curr_page = curr_item[0]['page_id']
+        pages_upto = [id for id in all_pages if id <= curr_page]
+
+        concept_upto = []
+
+        text_concepts =  pd.DataFrame.from_dict(slc_models.SmartContentSection.objects.values().filter(page_id__in=pages_upto,is_active=1))['concept'].to_list()
+        # breakpoint()
+        for text_concept in text_concepts:
+            if not(pd.isna(text_concept)):
+                concept_upto.extend(text_concept.split('_'))
         
+        concept_upto = list(set(concept_upto))
+
         return_json = {}
 
         # return_json["content_providers"] = content_provider_list
 
         slc_concepts = slc_models.SmartContentConcept.objects.values().filter(active=1)
-
+        
         # slc_content_component = slc_content_component.groupby('content_name').agg({'component_name':lambda x: list(x)})
         added_urls = []
 
         ## adding test cases
-
-
-        for prev_curr_section_concept in prev_curr_section_concepts:
+        
+        for row1 in slc_concepts:
+            example_concepts = list(set(row1['context_name'].split('_')))
+            count_match = 0
             # breakpoint()
-            text_concepts = [x.lower() for x in prev_curr_section_concept.split('_') if len(x) > 0]
-            for row1 in slc_concepts:
-                example_concepts = set([x.lower() for x in row1['context_name'].split('_') if len(x) > 0])
-                match_count = 0
-                for concept in example_concepts:
-                    if concept in text_concepts: match_count += 1
-                
-                
-                # breakpoint()
-                
-                if match_count == len(example_concepts):
-                    print(text_concepts, example_concepts)
+            for example_concept in example_concepts:
+                if example_concept in concept_upto:
+                    count_match +=1 
+            # breakpoint()
+            if count_match == len(example_concepts) and len(example_concepts) < len(concept_upto):
+                    print(concept_upto, example_concepts)
                     query_result = slc_models.SmartContent.objects.values().filter(content_name=row1['content_name'])
                     # breakpoint()
                     if len(query_result) == 1:

@@ -72,10 +72,11 @@ function displaySmartContent(url_host,content_provider_types,user_id,group_id){
     console.log("inside display", content_provider_types);
 
     display_names = {
-        "quizpet":"Questions",
-        "parsons":"Parsons",
+        "quizpet":"Tracing Problems",
+        "parsons":"Construction Problems",
         "animatedexamples": "Animations",
-        "pcex": "Annotated Examples",
+        "pcex_set": "Examples",
+        "pcex":"Challenges",
         "pcrs": "Coding Problems",
         "R_Text": "GPT-based Explanation",
     }
@@ -101,7 +102,7 @@ function displaySmartContent(url_host,content_provider_types,user_id,group_id){
                     var textcolor = randomColor({ hue:"monochrome",luminosity:"dark", format:'rgb'});
 
                     $('#reader-div').append(`<div id=${id} class="right-smart-content">
-                    <a id="right-handle" class="handle ui-slideouttab-handle ui-slideouttab-handle-rounded" style="background-color:${bcolor}; border-color:${bcolor};color:${textcolor}">${display_names[id]} <i class="fas fa-book-reader"></i></a>
+                    <a id="right-handle" class="handle ui-slideouttab-handle ui-slideouttab-handle-rounded" style="background-color:${bcolor}; border-color:${bcolor};color:${textcolor};width:12.5em;">${display_names[id]} <i class="fas fa-book-reader"></i></a>
                         <div id="right-subpanel">
                         <div id=${id}-smart-learning-content></div>
                         </div>
