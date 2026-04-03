@@ -1,4 +1,3 @@
-
 /* The navbar is fixed at >= 980px wide, so add padding to the body to prevent
 content running up underneath it. */
 
@@ -41,7 +40,7 @@ td.nested > table {
   margin: 0;
 }
 
-form select, form input, form textarea {
+form select, form input:not([type=checkbox]), form textarea {
   width: 90%;
 }
 
