@@ -1,7 +1,5 @@
 FROM python:3.10
 
-RUN apt-get update && apt-get install -y default-libmysqlclient-dev pkg-config
-
 WORKDIR /app
 ENV DOCKER=1
 
