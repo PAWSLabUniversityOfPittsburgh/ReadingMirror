@@ -13,6 +13,7 @@ docker rm reading-mirror-container 2>/dev/null
 docker run -d \
   --name reading-mirror-container \
   -e OPENBLAS_NUM_THREADS=1 \
+  -e DOCKER_NETWORK=mysql_prod \
   -p 14987:14987 \
   -v $(pwd):/app \
   reading-mirror
