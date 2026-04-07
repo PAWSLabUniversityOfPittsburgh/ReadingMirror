@@ -1,5 +1,7 @@
 #!/bin/bash
+docker network create readingmirror-net
 
+docker network connect readingmirror-net mysql_prod
 # Build image without sending directory context
 docker build -t reading-mirror - < Dockerfile
 
@@ -12,6 +14,7 @@ docker rm reading-mirror-container 2>/dev/null
 # Use host.docker.internal in Django settings for HOST to reach SSH tunnel
 docker run -d \
   --name reading-mirror-container \
+  --network readingmirror-net \
   -e OPENBLAS_NUM_THREADS=1 \
   -e DOCKER_NETWORK=mysql_prod \
   -p 14987:14987 \
