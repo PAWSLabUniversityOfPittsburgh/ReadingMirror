@@ -92,9 +92,9 @@ DATABASES = {
         'NAME': 'ereader',
         'USER': 'developer',
         'PASSWORD': 'upittpaws',
-        'HOST': '127.0.0.1',
+        'HOST': os.environ.get('DOCKER', False) and 'host.docker.internal' or '127.0.0.1',
         'PORT': '3336',
-        'OPTIONS':{'ssl_mode':'DISABLED'}
+        'OPTIONS':{}
     }
 }
 
@@ -169,5 +169,6 @@ REST_FRAMEWORK = {
     ]
 }
 
-LOGIN_REDIRECT_URL = 'http://localhost:8000/home'
+LOGIN_REDIRECT_URL = '/home'
+
 
