@@ -52,7 +52,8 @@ body{
     width: 100% !important;
     height: auto;
     max-height: 300px;
-    overflow: auto;
+    overflow-y: auto;
+    max-height: 100vh;
 }
 
 #left-div svg {
