@@ -84,7 +84,9 @@ WSGI_APPLICATION = 'ereader.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
-_SCRIPT_PREFIX = FORCE_SCRIPT_NAME or ''
+STATIC_URL = '/static/'
+STATIC_ROOT = BASE_DIR + '/static/'
+BASE_URL = BASE_DIR
 
 DATABASES = {
     'default': {
@@ -173,4 +175,4 @@ REST_FRAMEWORK = {
     ]
 }
 
-LOGIN_REDIRECT_URL = _SCRIPT_PREFIX + '/home'
+LOGIN_REDIRECT_URL = '/home'
