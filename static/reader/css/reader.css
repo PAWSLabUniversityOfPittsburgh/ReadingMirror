@@ -20,8 +20,8 @@ body{
 }
 
 #reader-div{
-    float:left;
-    width: 70% !important;
+    float: none;
+    width: 100% !important;
     height:100% !important;
     /*overflow: auto;*/
     /*position: relative;*/
@@ -48,10 +48,16 @@ body{
 }
 
 #left-div{
-    float:left;
-    width:30% !important;
-    height: 100%;
-    position: relative;
+    float: none;
+    width: 100% !important;
+    height: auto;
+    max-height: 300px;
+    overflow: auto;
+}
+
+#left-div svg {
+    max-height: 80vh;
+    width: 100%;
 }
 
 #vis-div{
