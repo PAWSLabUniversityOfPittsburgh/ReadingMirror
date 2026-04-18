@@ -6,4 +6,4 @@ ENV DOCKER=1
 EXPOSE 14987
 
 
-CMD sh -c "pip install --progress-bar off -r requirements.txt && gunicorn ereader.wsgi:application --bind 0.0.0.0:14987 --env SCRIPT_NAME=/ereader --workers 1 --threads 1 -k sync --no-sendfile --preload"
+CMD sh -c "pip install --progress-bar off -r requirements.txt && gunicorn ereader.wsgi:application --bind 0.0.0.0:14987 --workers 1 --threads 1 -k sync --no-sendfile --preload"
