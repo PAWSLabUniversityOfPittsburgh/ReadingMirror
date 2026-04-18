@@ -1297,7 +1297,7 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
 
      if (valid_smart_content_ids.includes(group_id)){ // || group_id == "INFSCI2300Fall2022"){
         console.debug("inside PFETest");// or INFSCI2300Fall2022 ");
-        fetchSmartContent(extra_base_url, user_id, group_id,displaySmartContent);
+        fetchSmartContent(location.host+extra_base_url, user_id, group_id,displaySmartContent);
      }
     var valid_wiki_group_ids = ["INFSCI2300Fall2022", "INFSCI2140Fall2022", "INFSCI2300Spring2023","INFSCI2140Fall2023","INFSCI2300Fall2023","INFSCI2140Fall2024"];
     var valid_video_group_ids = ["IRSpring2018","IRFall2018","IRFall2019","INFSCI2140Fall2021","INFSCI0017Fall17","cis0310","CIS0310","CIS0310","INFSCI2140Fall2023","CIS0310F23","INFSCI2140Fall2024"];
@@ -1329,14 +1329,14 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
             srlimit: 500,
             format: 'json' 
         }
-        fetchWikiContent(extra_base_url, resource_id,page_num, user_id,group_id, displayWikiContent,requestData);
+        fetchWikiContent(location.host+extra_base_url, resource_id,page_num, user_id,group_id, displayWikiContent,requestData);
      }
 
 
      if (false){
         console.log("Inside IR wiki");
         var wikimap_pageid = map_old_new_section_ids[last_page_read["docno"]];
-        fetchWikiContent(extra_base_url, wikimap_pageid,"", user_id,group_id, displayWikiContent,requestData);
+        fetchWikiContent(location.host+extra_base_url, wikimap_pageid,"", user_id,group_id, displayWikiContent,requestData);
      }
 
 
@@ -2168,7 +2168,7 @@ function initToc(course_structure){
             if(group_id == "INFSCI2300Fall2022" || group_id == "INFSCI2140Fall2022"){   // store wiki feedback
                 if (document.getElementById('wikipage')){
                     console.log("inside close_wiki");
-                    submitWikiFeedback(extra_base_url,user_id,group_id,"close_wiki");
+                    submitWikiFeedback(location.host+extra_base_url,user_id,group_id,"close_wiki");
                 }
             }
         }
