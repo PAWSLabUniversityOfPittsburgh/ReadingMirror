@@ -970,9 +970,12 @@ document.onload = (function(d3, saveAs, Blob, undefined){
         .attr("width", width)
         .attr("height", height);
   
-  var userid = document.getElementById("userID").value;    
-  var cmid = document.getElementById("cmID").value;
-  
+  var userEl = document.getElementById("userID");
+  var cmEl = document.getElementById("cmID");
+  if (!userEl || !cmEl) return;
+  var userid = userEl.value;
+  var cmid = cmEl.value;
+ 
   if (cmid!="null"){
 	  drawExistentConceptMap(svg,cmid,userid);
   }else{
