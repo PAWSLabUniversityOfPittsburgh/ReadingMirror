@@ -20,8 +20,8 @@ body{
 }
 
 #reader-div{
-    float: none;
-    width: 100% !important;
+    float:left;
+    width: 70% !important;
     height:100% !important;
     /*overflow: auto;*/
     /*position: relative;*/
