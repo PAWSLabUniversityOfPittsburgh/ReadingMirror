@@ -28,10 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pawscomp2.sis.pitt.edu']
 
-# Reverse proxy prefix (set via SCRIPT_NAME env var)
-FORCE_SCRIPT_NAME = os.environ.get('SCRIPT_NAME', '') or None
-
-
 # Application definition
 
 INSTALLED_APPS = [
