@@ -232,7 +232,7 @@
         //Log video load
         var player_action = "video-load";
         var video_id = player.getVideoData().video_id;
-        $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+        $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": "{{ request.user.id }}",
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -281,7 +281,7 @@
         }
 
         //Log video player actions
-        $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+        $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -375,8 +375,8 @@
                 }
             });
           if (document[hidden]) {
-            //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/reader", JSON.stringify(
-            $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+            //$.post( extra_base_url+"/ereader/api/reader", JSON.stringify(
+            $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -390,8 +390,8 @@
              "visible_text": visible_text_elements,
              "extra": []}));
           } else {
-            //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/reader", JSON.stringify(
-            $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+            //$.post( extra_base_url+"/ereader/api/reader", JSON.stringify(
+            $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -578,7 +578,7 @@ function loadHtml() {
     if (false) {(group_id!='CoTaPP22'&& group_id!='PFETest');}  // defunct condition check for specific groups to not load recommmendations or smart content
     //Load student 
     if(true){
-     $.getJSON("http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader/assignments?user="+user_id+"&group="+group_id,function(json){
+     $.getJSON(extra_base_url+"/api/reader/assignments?user="+user_id+"&group="+group_id,function(json){
          var result = json.result;
          if(result){
              assignments = json.assignments;
@@ -1226,8 +1226,8 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
     });
 
      if(page_num === spage){
-        //$.get( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/kcs",
-        /*$.get( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/kcs",
+        //$.get( extra_base_url+"/ereader/api/kcs",
+        /*$.get( extra_base_url+"/api/kcs",
                  {"user": "{{ request.user.id }}",
                  "group": "{{ group }}",
                  "sections": last_page_read["id"]},
@@ -1297,7 +1297,7 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
 
      if (valid_smart_content_ids.includes(group_id)){ // || group_id == "INFSCI2300Fall2022"){
         console.debug("inside PFETest");// or INFSCI2300Fall2022 ");
-        fetchSmartContent("{{ request.META.HTTP_HOST }}"+extra_base_url, user_id, group_id,displaySmartContent);
+        fetchSmartContent(extra_base_url, user_id, group_id,displaySmartContent);
      }
     var valid_wiki_group_ids = ["INFSCI2300Fall2022", "INFSCI2140Fall2022", "INFSCI2300Spring2023","INFSCI2140Fall2023","INFSCI2300Fall2023","INFSCI2140Fall2024"];
     var valid_video_group_ids = ["IRSpring2018","IRFall2018","IRFall2019","INFSCI2140Fall2021","INFSCI0017Fall17","cis0310","CIS0310","CIS0310","INFSCI2140Fall2023","CIS0310F23","INFSCI2140Fall2024"];
@@ -1329,14 +1329,14 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
             srlimit: 500,
             format: 'json' 
         }
-        fetchWikiContent("{{ request.META.HTTP_HOST }}"+extra_base_url, resource_id,page_num, user_id,group_id, displayWikiContent,requestData);
+        fetchWikiContent(extra_base_url, resource_id,page_num, user_id,group_id, displayWikiContent,requestData);
      }
 
 
      if (false){
         console.log("Inside IR wiki");
         var wikimap_pageid = map_old_new_section_ids[last_page_read["docno"]];
-        fetchWikiContent("{{ request.META.HTTP_HOST }}"+extra_base_url, wikimap_pageid,"", user_id,group_id, displayWikiContent,requestData);
+        fetchWikiContent(extra_base_url, wikimap_pageid,"", user_id,group_id, displayWikiContent,requestData);
      }
 
 
@@ -1434,8 +1434,8 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
 
          var extra_info={"source":source,"top":top,"bottom":bottom};
 
-         //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/reader", JSON.stringify(
-         $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+         //$.post( extra_base_url+"/ereader/api/reader", JSON.stringify(
+         $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -1495,8 +1495,8 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
 		    bottom = (100 * bottom / reader_height).toFixed(2);
 
             var viewport_positions={"top":top,"bottom":bottom};
-            //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/reader", JSON.stringify(
-            $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+            //$.post( extra_base_url+"/ereader/api/reader", JSON.stringify(
+            $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{request.session.session_key}}",
              "group": "{{ group }}",
@@ -1539,8 +1539,8 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
 
 		    console.log("top: "+top+"bottom: "+bottom);
             var viewport_positions={"top":top,"bottom":bottom};
-            //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/reader", JSON.stringify(
-            $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+            //$.post( extra_base_url+"/ereader/api/reader", JSON.stringify(
+            $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{request.session.session_key}}",
              "group": "{{ group }}",
@@ -1585,8 +1585,8 @@ function loadResource(section_id,section_name,resource_id,page_num,source){
 
 		    console.log("top: "+top+"bottom: "+bottom);
             var viewport_positions={"top":top,"bottom":bottom};
-            //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/reader", JSON.stringify(
-            $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+            //$.post( extra_base_url+"/ereader/api/reader", JSON.stringify(
+            $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{request.session.session_key}}",
              "group": "{{ group }}",
@@ -2068,7 +2068,7 @@ function initToc(course_structure){
         var stringDateFull = moment(date).toISOString();
         var mouseovered_id = d3.select(this).attr("id");
 
-        $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+        $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -2144,8 +2144,8 @@ function initToc(course_structure){
         var resource_id = last_page_read["resourceid"];
         var page_num = last_page_read["page"];
 
-        //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/reader", JSON.stringify(
-        $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+        //$.post( extra_base_url+"/ereader/api/reader", JSON.stringify(
+        $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -2168,7 +2168,7 @@ function initToc(course_structure){
             if(group_id == "INFSCI2300Fall2022" || group_id == "INFSCI2140Fall2022"){   // store wiki feedback
                 if (document.getElementById('wikipage')){
                     console.log("inside close_wiki");
-                    submitWikiFeedback("{{ request.META.HTTP_HOST }}"+extra_base_url,user_id,group_id,"close_wiki");
+                    submitWikiFeedback(extra_base_url,user_id,group_id,"close_wiki");
                 }
             }
         }
@@ -2181,7 +2181,7 @@ function initToc(course_structure){
         var resource_id = last_page_read["resourceid"];
         var page_num = last_page_read["page"];
 
-        $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+        $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -2217,7 +2217,7 @@ function initToc(course_structure){
         if(section_quizzes.includes(last_page_read["id"])){
             alert("there is a quiz");
         }*/
-        //$.get( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/quiz",
+        //$.get( extra_base_url+"/ereader/api/quiz",
         var selected_sections = getAncestors(d3.select("#toc-section-"+last_page_read["id"]).node().__data__);
         var selected_sections_ids =  selected_sections.map(function(d){return d.id;});
         //console.log(selected_sections);
@@ -2234,7 +2234,7 @@ function initToc(course_structure){
             return;
         }
         $(".submit-btn").prop("disabled",false);
-        $.get( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/quiz",
+        $.get( extra_base_url+"/api/quiz",
              {"user": {{ request.user.id }},
              "group": "{{ group }}",
              //"section": last_page_read["id"]},
@@ -2288,8 +2288,8 @@ function initToc(course_structure){
                             $("input[type=radio][name=q" + question_id + "]").change(function () {
                                 var quiz_id = quiz_data["quiz"];
                                 console.log($(this).attr("name").substring(1,$(this).attr("name").length));
-                                //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/quiz/attempt",
-                                $.post("http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/quiz/attempt",
+                                //$.post( extra_base_url+"/ereader/api/quiz/attempt",
+                                $.post(extra_base_url+"/api/quiz/attempt",
                                     JSON.stringify({
                                         "quiz": quiz_id,
                                         "user": {{request.user.id}},
@@ -2351,8 +2351,8 @@ function initToc(course_structure){
                                 }else{
                                     action = "unmarked";
                                 }
-                                //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/quiz/attempt",
-                                $.post("http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/quiz/attempt",
+                                //$.post( extra_base_url+"/ereader/api/quiz/attempt",
+                                $.post(extra_base_url+"/api/quiz/attempt",
                                     JSON.stringify({
                                         "quiz": quiz_id,
                                         "user": {{request.user.id}},
@@ -2466,8 +2466,8 @@ function initToc(course_structure){
             loaderOn();
 
             var quiz_id= quiz_data["quiz"];
-            //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/reader", JSON.stringify(
-            $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+            //$.post( extra_base_url+"/ereader/api/reader", JSON.stringify(
+            $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -2482,9 +2482,9 @@ function initToc(course_structure){
              "visible_text": []}) );
 
             /*$.ajax({
-               url: "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/quiz/assess",*/
+               url: extra_base_url+"/ereader/api/quiz/assess",*/
             $.ajax({
-               url: "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/quiz/assess",
+               url: extra_base_url+"/api/quiz/assess",
                data:
                    JSON.stringify({"quiz": quiz_id,
                    "user": {{request.user.id}},
@@ -2569,7 +2569,7 @@ function initToc(course_structure){
         var date = new Date();
         var stringDateFull = moment(date).toISOString();
         var mouseovered_id = d3.select(this).attr("id");
-        $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+        $.post( extra_base_url+"/api/reader", JSON.stringify(
              {"user": {{ request.user.id }},
              "session": "{{ request.session.session_key }}",
              "group": "{{ group }}",
@@ -2946,8 +2946,8 @@ function openVideoWindow(video_id,res_id,rating,explanation_rating,ranking,score
 
     modal.style.display="block";
 
-    //$.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/ereader/api/reader", JSON.stringify(
-    $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/reader", JSON.stringify(
+    //$.post( extra_base_url+"/ereader/api/reader", JSON.stringify(
+    $.post( extra_base_url+"/api/reader", JSON.stringify(
          {"user": {{ request.user.id }},
          "session": "{{ request.session.session_key }}",
          "group": "{{ group }}",
@@ -3030,7 +3030,7 @@ function openVideoWindow(video_id,res_id,rating,explanation_rating,ranking,score
                  var score=$("#"+video_id).attr("score");
                  var noise=$("#"+video_id).attr("noise");
                  //Log this rating
-                 $.post( "http://{{ request.META.HTTP_HOST }}"+extra_base_url+"/api/recommender/rate_resource", JSON.stringify(
+                 $.post( extra_base_url+"/api/recommender/rate_resource", JSON.stringify(
                    {
                        "user": {{ request.user.id }},
                        "session": "{{ request.session.session_key }}",
@@ -3237,7 +3237,7 @@ function updateRecommendations(){
 
         $.ajax({
         //url: 'http://halley.exp.sis.pitt.edu/behnam/book/api.php?sid='+new_section_id,
-        url: "http://{{ request.META.HTTP_HOST }}"+extra_base_url+'/api/recommender/recommended_videos?method='+recommendation_approach+'&page='+new_section_id+'&user='+user_id+'&group='+group_id+'&section='+current_section_id,
+        url: extra_base_url+'/api/recommender/recommended_videos?method='+recommendation_approach+'&page='+new_section_id+'&user='+user_id+'&group='+group_id+'&section='+current_section_id,
         type: 'GET',
         crossDomain: true,
         success: function(data) {
@@ -3283,7 +3283,7 @@ function updateRecommendations(){
                             }
                         }
                         if(video_panel_action!="") {
-                            $.post("http://{{ request.META.HTTP_HOST }}" + extra_base_url + "/api/reader", JSON.stringify(
+                            $.post(extra_base_url + "/api/reader", JSON.stringify(
                                 {
                                     "user": {{ request.user.id }},
                                     "session": "{{ request.session.session_key }}",
@@ -3378,7 +3378,7 @@ function loadConceptMap(user_id, section_id, section_name, container_id){
     concept_map_height =  $("#"+container_id).innerHeight();
 
     $.ajax({
-        url: "http://{{ request.META.HTTP_HOST }}"+extra_base_url+'/api/knowledgevis/concept_map?user='+user_id+'&section='+cm_section_id,
+        url: extra_base_url+'/api/knowledgevis/concept_map?user='+user_id+'&section='+cm_section_id,
         type: 'GET',
         crossDomain: true,
         dataType: "json",
