@@ -28,6 +28,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pawscomp2.sis.pitt.edu']
 
+# Reverse proxy prefix (set via SCRIPT_NAME env var)
+FORCE_SCRIPT_NAME = os.environ.get('SCRIPT_NAME', '') or None
+
 
 # Application definition
 
@@ -80,6 +83,8 @@ WSGI_APPLICATION = 'ereader.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
+
+_SCRIPT_PREFIX = FORCE_SCRIPT_NAME or ''
 
 DATABASES = {
     'default': {
@@ -136,14 +141,13 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
-STATIC_URL = '/static/'
-STATIC_ROOT = BASE_DIR + '/static/'
-BASE_URL = BASE_DIR
-
+STATIC_URL = _SCRIPT_PREFIX + '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+
+BASE_URL = BASE_DIR
 
 # MongoDB Database
 #_MONGODB_USER   = 'mongouser'
@@ -169,6 +173,4 @@ REST_FRAMEWORK = {
     ]
 }
 
-LOGIN_REDIRECT_URL = '/home'
-
-
+LOGIN_REDIRECT_URL = _SCRIPT_PREFIX + '/home'
