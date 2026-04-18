@@ -97,8 +97,8 @@ DATABASES = {
         'NAME': 'ereader',
         'USER': 'developer',
         'PASSWORD': 'upittpaws',
-        'HOST': (os.environ.get('DOCKER', False) and 'host.docker.internal') or '127.0.0.1',
-        'PORT': '3336',
+        'HOST': '127.0.0.1',
+        'PORT': '3306',
         'OPTIONS':{}
     }
 }
